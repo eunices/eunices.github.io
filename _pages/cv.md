@@ -40,15 +40,15 @@ If I am a good fit, you may contact me/ view my CV:
 ## Publications
 
 **International publications**
-- Kwong WK, Medina LA, Koch H, Sing KW, Soh EJY, Ascher JS, Jaffe R, Moran, NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances [minor collaborator]
+- Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran, NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances [minor collaborator]
 
 **Local publications**
-- Ascher J, Risch S, Soh ZWW, Lee JXQ, Soh EJY (2016). Megachile leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. 
+- Ascher J, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). Megachile leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. 
 
 **Peer-reviewed, non-indexed journals**
-- Soh EJY, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62.
-- Yong GWJ, Wong MKL, Soh EJY (2017). Surprising offshore diversity: A preliminary checklist for the ant genera of Pulau Ubin island from rapid opportunistic sampling (Hymenoptera: Formicidae). Nature in Singapore, 10, 55–66. 
-- Soh EJY, Soh ZWW, Ascher JSA, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus Megachile in Singapore. Nature in Singapore, 12, 63–74.
+- **Soh EJY**, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62.
+- Yong GWJ, Wong MKL, **Soh EJY** (2017). Surprising offshore diversity: A preliminary checklist for the ant genera of Pulau Ubin island from rapid opportunistic sampling (Hymenoptera: Formicidae). Nature in Singapore, 10, 55–66. 
+- **Soh EJY**, Soh ZWW, Ascher JSA, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus Megachile in Singapore. Nature in Singapore, 12, 63–74.
 
 ## Conferences
 
