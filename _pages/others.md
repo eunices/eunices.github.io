@@ -32,4 +32,4 @@ author_profile: true
 - [carbonmade](http://eunice.carbonmade.com), for collateral, map design
 
 ## Travels 
-<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="700" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="300px"></iframe>
