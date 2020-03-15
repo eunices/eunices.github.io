@@ -11,9 +11,9 @@ redirect_from:
 
 Currently I am a Masters (full time) student at the National University of Singapore (NUS). I am completing my thesis by 2021 and am looking for employment opportunities, including
 
-1. Internship in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
-2. Data analyst. Preferably in government, healthcare or non-profit setting.
-3. Research assistant in environment biology. Preferably in genomics or modelling. I hope to pick up remote sensing skills, or more mathematical/theoretical modelling.
+1. **Internship** in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
+2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
+3. **Research assistant** in environment biology. Preferably in genomics or modelling. I hope to pick up molecular skills, remote sensing skills, or more mathematical/theoretical modelling.
 
 If I am a good fit, you may contact me/ view my CV:
 
