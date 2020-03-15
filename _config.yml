@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  viz:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   others:
@@ -201,10 +201,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _viz
+  # _portfolio
   - scope:
       path: ""
-      type: viz
+      type: portfolio
     values:
       layout: single
       author_profile: true
