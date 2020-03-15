@@ -4,7 +4,7 @@ main:
     url: /cv/
 
   - title: "Ancillary info"
-    url: /other/
+    url: /others/
 
   - title: "Visualisations"
     url: /viz/
