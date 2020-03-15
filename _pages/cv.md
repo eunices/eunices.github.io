@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Currently I am a Masters (full time) student at the National University of Singapore (NUS). I am completing my thesis by 2021 and am looking for employment opportunities. I am currently open to any opportunities though I have some idea of what I want to do after graduation. Specially, 
+Currently I am a Masters (full time) student at the National University of Singapore (NUS). I am completing my thesis by 2021 and am looking for employment opportunities, including
 
 1. Internship in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
 2. Data analyst. Preferably in government, healthcare or non-profit setting.
 3. Research assistant in environment biology. Preferably in genomics or modelling. I hope to pick up remote sensing skills, or more mathematical/theoretical modelling.
 
-If you do of any opportunities, you may contact me/ view my CV:
+If I am a good fit, you may contact me/ view my CV:
 
-- Contactable readily via **email** - eunice.sjy(at)gmail
+- Contactable via **email** - eunice.sjy(at)gmail
 - View my **work experience** at [LinkedIn](https://www.linkedin.com/in/eunicesoh/)
 - View my **research work** at [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research)
 - View my **tech/viz/research porfolio** by clicking on the "portfolio" tab
