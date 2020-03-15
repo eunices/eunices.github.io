@@ -14,13 +14,16 @@ In my third year, I went to University of Toronto for an exchange programme focu
 
 In my fourth year, I conducted my FYP thesis under Dr John Ascher on the diversity of Megachile in Singapore, as the fauna was not so well known then. Through that, we and our collaborators published the checklist of Megachile in Singapore, as well as a report on Anthidinii in Singapore. 
 
-## the post-graduation years
+I've had the privilege to go on field courses such as the Ant Course 2012, Tioman field course 2015 and Operation Wallacea to Honduras in 2013.
+
+
+### the post-graduation years
 
 I decided to work for a couple years upon graduation... I worked at the EHI NEA as a researcher, A*STAR as a data administrator, then at SCDF as an analyst, before stopping at AI Singapore as an AI apprentice. More details can be found on my CV/LinkedIn page.
 
-Through these work experiences, I realised that data is useful tool for informing decision making and was hoping to go back to school to pick up more skills...
+Through these work experiences, I realised that data is useful tool for informing decision making and was hoping to go back to school to pick up more skills in data modelling and data/software engineerimg...
 
-## back to postgrad MSc studies
+### back to postgrad MSc studies
 
 I'm now back in Dr Roman Carrasco's (cosupervised by Dr John Ascher) lab exploring trends in bee macroecology. I hope to collaborate with others on other projects as well~. Will update again later on this!
 
