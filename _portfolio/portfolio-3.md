@@ -22,7 +22,7 @@ My main takeaway from my undergrad days were species ID for Megachilidae in Sing
 
 I decided to work for a couple years upon graduation... I worked at the EHI NEA as a researcher, A*STAR as a data administrator, then at SCDF as an analyst, before stopping at AI Singapore as an AI apprentice. More details can be found on my CV/LinkedIn page.
 
-Through these work experiences, I realised that data is useful tool for informing decision making and was hoping to go back to school to pick up more skills in data modelling and data/software engineerimg...
+Through these work experiences, I realised that data is useful tool for informing decision making and was hoping to go back to school to pick up more skills in data modelling and data/software engineering...
 
 My main takeaway were conducting mosquito field studies, data pipelines and leveraging on ML/AI technologies. I had the chance to brush up on programming and software engineering related skills.
 
