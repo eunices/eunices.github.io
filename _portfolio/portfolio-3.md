@@ -14,7 +14,7 @@ In my third year, I went to University of Toronto for an exchange programme focu
 
 In my fourth year, I conducted my FYP thesis under Dr John Ascher on the diversity of Megachile in Singapore, as the fauna was not so well known then. Through that, we and our collaborators published the checklist of Megachile in Singapore, as well as a report on Anthidinii in Singapore. 
 
-I've had the privilege to go on field courses such as the Ant Course 2012, Tioman field course 2015 and Operation Wallacea to Honduras in 2013.
+I've had the privilege to go on field courses such as the Ant Course 2012, Tioman field course 2014 and Operation Wallacea to Honduras in 2013.
 
 My main takeaway from my undergrad days were species ID for Megachilidae in Singapore, ant generic identification and data analysis.
 
