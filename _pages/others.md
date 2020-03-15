@@ -1,12 +1,14 @@
 ---
-layout: archive
 title: "Ancillary info"
 permalink: /others/
 author_profile: true
+redirect_from: 
+  - /others/
+  - /others.md
 ---
 
 {% include base_path %}
-# Work
+
 
 ## Research
 - [ResearchGate](http://www.researchgate.net/profile/Eunice_Soh2), where my research is posted
@@ -20,8 +22,6 @@ author_profile: true
 - [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
 - [Code katas](https://www.codewars.com/users/eunix), to practise coding
 - [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses
-
-# Hobbies
 
 ## Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
