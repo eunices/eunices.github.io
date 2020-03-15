@@ -18,7 +18,7 @@ I learnt how to write scripts for web services that were consumed by the fronten
 
 I was part of the AI Apprentice programme at NUS SCALE. Worked in a multidisciplinary team to create an end-to-end POC deliverable for a predictive maintenace model for lifts. Project included elements of data engineering, data cleaning, exploratory data analysis, data modelling/ model management, backend web services and scheduled jobs. 
 
-I developed scripts in python pertaining to the exploratory data analysis, data modelling/ model management, and gained rudimentary knowledge on data engineering.
+I developed scripts in python pertaining to the exploratory data analysis, data modelling/ model management, and gained rudimentary knowledge on data engineering. I also learnt good software engineering practices such as Agile and code versioning, and writing technical documentation based on requirements.
 
 - Github repository not publicly available
 
