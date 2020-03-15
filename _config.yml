@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eunice Soh"
+  name             : "Eunice J.Y. Soh"
   avatar           : "profile.png"
   bio              : "A MSc student looking for opportunities in analytics engineering. Available Jan 2021 onwards. Contactable at eunice.sjy(at)gmail"
   location         : "Singapore"
@@ -192,15 +192,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _others
-  - scope:
-      path: ""
-      type: others
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -208,9 +199,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       share: true
-      comment: true
+      comment: false
       related: true
 
 # Sass/SCSS
@@ -223,7 +214,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
