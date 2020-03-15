@@ -2,9 +2,6 @@
 title: "Ancillary info"
 permalink: /others/
 author_profile: true
-redirect_from: 
-  - /others/
-  - /others.md
 ---
 
 {% include base_path %}
