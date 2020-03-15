@@ -11,8 +11,8 @@ redirect_from:
 
 Currently I am a Masters (full time) student at the National University of Singapore (NUS).
 
-- View my **work experience** at [LinkedIn](https://www.linkedin.com/in/eunicesoh/)
-- View my **research work** at [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research)
+- View my **work experience** on [LinkedIn](https://www.linkedin.com/in/eunicesoh/)
+- View my **research work** on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research)
 - View my **tech/viz/research porfolio** by clicking on the "portfolio" tab
 
 ## Formal education
