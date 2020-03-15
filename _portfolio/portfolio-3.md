@@ -28,6 +28,6 @@ My main takeaway were conducting mosquito field studies, data pipelines and leve
 
 ### back to postgrad MSc studies
 
-I'm now back in Dr Roman Carrasco's (cosupervised by Dr John Ascher) lab exploring trends in bee macroecology. I hope to collaborate with others on other projects as well~. Will update again later on this!
+I'm now back in A/P Roman Carrasco's (cosupervised by Dr John Ascher) lab exploring trends in bee macroecology. I hope to collaborate with others on other projects as well~. Will update again later on this!
 
 Last updated 15 Mar 2020
