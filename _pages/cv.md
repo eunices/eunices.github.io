@@ -9,15 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Currently I am a Masters (full time) student at the National University of Singapore (NUS). I am completing my thesis by 2021 and am looking for employment opportunities, including
+Currently I am a Masters (full time) student at the National University of Singapore (NUS).
 
-1. **Internship** in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
-2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
-3. **Research assistant** in environment biology. Preferably in genomics or modelling. I hope to pick up molecular skills, remote sensing skills, or more mathematical/theoretical modelling.
-
-If I am a good fit, you may contact me/ view my CV:
-
-- Contactable via **email** - eunice.sjy(at)gmail
 - View my **work experience** at [LinkedIn](https://www.linkedin.com/in/eunicesoh/)
 - View my **research work** at [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research)
 - View my **tech/viz/research porfolio** by clicking on the "portfolio" tab
@@ -55,4 +48,13 @@ If I am a good fit, you may contact me/ view my CV:
 - Biodiversity Research Symposium (2014) by National Parks Board
 - First Insect-spider Annual Symposium (2014) by Department of Biological Sciences (NUS)
 
+## Opportunities
+
+I am completing my thesis by 2021 and am looking for employment opportunities, including
+
+1. **Internship** in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
+2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
+3. **Research assistant** in environment biology. Preferably in genomics or modelling. I hope to pick up molecular skills, remote sensing skills, or more mathematical/theoretical modelling.
+
+If I am a good fit, you may contact me at eunice.sjy(at)gmail.com.
 
