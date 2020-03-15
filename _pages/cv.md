@@ -32,10 +32,10 @@ If you do of any opportunities, you may contact me/ view my CV:
 
 ## Tech stack
 
-- Version control system: git/github
-- Automation, data visualization, data science (analytics, machine learning): R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
-- Basic software development: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
-- Rudimentary knowledge of cloud and data storage technologies [require guidance]: Docker/Kubernetes, Google Cloud Platform (Firebase), Azure (storage: blob storage; computing: PySpark/ Dask/ Batch services), ClearDB mysql
+- **Version control system**: git/github
+- **Automation, data visualization, data science (analytics, machine learning)**: R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
+- **Basic software development**: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
+- **Rudimentary knowledge of cloud and data storage technologies** [I require guidance]: Docker/Kubernetes, Google Cloud Platform (Firebase), Azure (storage: blob storage; computing: PySpark/ Dask/ Batch services), ClearDB mysql
 
 ## Publications
 
