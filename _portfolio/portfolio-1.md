@@ -22,7 +22,7 @@ I helped developed scripts in python pertaining to the exploratory data analysis
 
 - **Github repository not publicly available.**
 
-### Course on mobile programming
+### Course on mobile programming, 2019-2020
 
 I took up the Specialist Diploma at Singapore Polytechnic. We learnt web services (using Java) and basics of Android Studio over a year.
 
