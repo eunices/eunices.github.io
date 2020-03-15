@@ -11,7 +11,7 @@ redirect_from:
 
 - Contactable readily via **email** - eunice.sjy(at)gmail
 - View my **work experience** at LinkedIn - https://www.linkedin.com/in/eunicesoh/
-- View my **publications** at ResearchGate - https://www.researchgate.net/profile/Eunice_Soh2/research
+- View my **research work** at ResearchGate - https://www.researchgate.net/profile/Eunice_Soh2/research
 
 ## Formal education
 
@@ -43,8 +43,8 @@ redirect_from:
 
 ## Conferences
 
-Biodiversity Research Symposium (2014) by National Parks Board
-First Insect-spider Annual Symposium (2014) by Department of Biological Sciences (NUS)
+- Biodiversity Research Symposium (2014) by National Parks Board
+- First Insect-spider Annual Symposium (2014) by Department of Biological Sciences (NUS)
 
 
 
