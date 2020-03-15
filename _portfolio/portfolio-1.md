@@ -12,7 +12,7 @@ I was part of the Techladies bootcamp, to create a live web application for Sing
 
 I learnt how to write scripts for web services that were consumed by the frontend.
 
-**[Github repository](https://github.com/ssnsingapore/ssn-app)**
+- **[Github repository](https://github.com/ssnsingapore/ssn-app)**
 
 ### Surbana Jurong lift predictive maintenance end-to-end POC, 2018-2019
 
@@ -20,13 +20,13 @@ I was part of the AI Apprentice programme at NUS SCALE. Worked in a multidiscipl
 
 I helped developed scripts in python pertaining to the exploratory data analysis, data modelling/ model management, and gained rudimentary knowledge on data engineering.
 
-**Github repository not publicly available.**
+- **Github repository not publicly available.**
 
 ### Course on mobile programming
 
 I took up the Specialist Diploma at Singapore Polytechnic. We learnt web services (using Java) and basics of Android Studio over a year.
 
-[Github repository (for Java web services)](https://github.com/eunices/moneytransfer)
-[Github repository (for Android Studio mobile app)](https://github.com/eunices/moneyxfer-mobi)
+- [Github repository (for Java web services)](https://github.com/eunices/moneytransfer)
+- [Github repository (for Android Studio mobile app)](https://github.com/eunices/moneyxfer-mobi)
 
 Last updated 15 Mar 2020
