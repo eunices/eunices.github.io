@@ -32,8 +32,7 @@ I took up the Specialist Diploma at Singapore Polytechnic. We learnt web service
 - [Github repository (for Java web services)](https://github.com/eunices/moneytransfer)
 - [Github repository (for Android Studio mobile app)](https://github.com/eunices/moneyxfer-mobi)
 
-![Mobile app screenshot](/images/portfolio1-mobiwebsvc.png)
-![Mobile web services screenshot](/images/portfolio1-mobiapp.png)
+![Mobile app screenshot](/images/portfolio1-mobi.png)
 
 
 Last updated 15 Mar 2020
