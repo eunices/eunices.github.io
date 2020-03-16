@@ -24,7 +24,7 @@ I developed scripts in python pertaining to the exploratory data analysis, data 
 
 ### Course on mobile programming, 2019-2020
 
-I took up the Specialist Diploma at Singapore Polytechnic. We learnt web services (using Java) and basics of Android Studio over a year.
+I took up the Specialist Diploma at Singapore Polytechnic. We learnt web services (using Java) and basics of Android Studio over a year and made a Money Transfer POC app in both cases.
 
 - [Github repository (for Java web services)](https://github.com/eunices/moneytransfer)
 - [Github repository (for Android Studio mobile app)](https://github.com/eunices/moneyxfer-mobi)
