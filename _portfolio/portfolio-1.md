@@ -14,6 +14,9 @@ I learnt how to write scripts for web services that were consumed by the fronten
 
 - [Github repository](https://github.com/ssnsingapore/ssn-app)
 
+![SSN app screenshot](../images/portfolio1-ssn.png)
+
+
 ### Surbana Jurong lift predictive maintenance end-to-end POC, 2018-2019
 
 I was part of the AI Apprentice programme at NUS SCALE. Worked in a multidisciplinary team to create an end-to-end POC deliverable for a predictive maintenace model for lifts. Project included elements of data engineering, data cleaning, exploratory data analysis, data modelling/ model management, backend web services and scheduled jobs. 
@@ -28,5 +31,9 @@ I took up the Specialist Diploma at Singapore Polytechnic. We learnt web service
 
 - [Github repository (for Java web services)](https://github.com/eunices/moneytransfer)
 - [Github repository (for Android Studio mobile app)](https://github.com/eunices/moneyxfer-mobi)
+
+![Mobile app screenshot](../images/portfolio1-mobiwebsvc.png)
+![Mobile web services screenshot](../images/portfolio1-mobiapp.png)
+
 
 Last updated 15 Mar 2020
