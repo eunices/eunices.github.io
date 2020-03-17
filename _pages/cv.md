@@ -18,10 +18,10 @@ Currently I am a Masters (full time) student at the National University of Singa
 ## Formal education 💯
 
 - MSc, Research (Environmental Biology), NUS - ongoing
-- SDip (Mobile Application Programming), Singapore Polytechnic - Feb 2020
-- AI Apprentice, NUS SCALE - Jan 2019 
-- GDip (Applied Statistics), U. Sheffield - June 2018
-- BSc, Hons (Life Sciences), NUS - Feb 2015 
+- SDip (Mobile Application Programming), Singapore Polytechnic - Feb.2020
+- AI Apprentice, NUS SCALE - Jan.2019 
+- GDip (Applied Statistics), U. Sheffield - Jun.2018
+- BSc, Hons (Life Sciences), NUS - Feb.2015 
 
 ## Tech stack 🦋
 
