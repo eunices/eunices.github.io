@@ -19,19 +19,19 @@ View my **[tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/)/[resear
 
 ## Work experience 🦟
 
-- MSc research student, NUS - Aug.2019-Present 
+- MSc researcher, NUS - Aug.2019-Present 
 - AI apprentice, AI Singapore - May.2018-Jan.2019 
 - Data analyst, SCDF - Jun.2017-May.2018
 - Data administrator, A*STAR SICS - Jul.2016-Jun.2017
 - Researcher, NEA EHI - Apr.2015-Jul.2016 
 
-View my work experience with details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
+More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 
 ## Education 💯
 
-- MSc, Research (Environmental Biology), NUS - ongoing
-- SDip (Mobile Application Programming), Singapore Polytechnic - Feb.2020
-- AI Apprentice, NUS SCALE - Jan.2019 
+- MSc, by research (Environmental Science), NUS - ongoing
+- SDip (Programming and Mobile User Interaction), Singapore Polytechnic - Feb.2020
+- AI apprentice, NUS SCALE - Jan.2019 
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
 - BSc, Hons (Life Sciences), NUS - Feb.2015 
 
