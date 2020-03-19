@@ -19,11 +19,11 @@ View my **[tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/)/[resear
 
 ## Work experience 🦟
 
-- MSc research student [2-year programme], NUS - Aug.2019-Present 
-- AI apprentice [9-month programme], AI Singapore - May.2018-Jan.2019 
+- MSc research student, NUS - Aug.2019-Present 
+- AI apprentice, AI Singapore - May.2018-Jan.2019 
 - Data analyst, SCDF - Jun.2017-May.2018
-- Data administrator [contract], A*STAR SICS - Jul.2016-Jun.2017
-- Researcher [contract], NEA EHI - Apr.2015-Jul.2016 
+- Data administrator, A*STAR SICS - Jul.2016-Jun.2017
+- Researcher, NEA EHI - Apr.2015-Jul.2016 
 
 View my work experience with details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 
