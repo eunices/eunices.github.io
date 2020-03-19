@@ -13,9 +13,9 @@ redirect_from:
 
 Hello! Currently, I am a Masters (full time) student at the National University of Singapore (NUS). Looking for [employment opportunities](#opportunities-) in 2021.
 
-## Portfolio 🐜
+## [Portfolio](/portfolio) 🐜
 
-View my [tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/) portfolio. Also under [portfolio](/portfolio) tab.
+View my [tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/) portfolio.
 
 ## Work experience 🦟
 
