@@ -3,7 +3,6 @@ title: "Tech projects"
 excerpt: "A collection of tech projects."
 collection: portfolio
 ---
-
 ## A collection of tech projects
 
 ### SSN web app, 2018-2019

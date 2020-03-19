@@ -6,7 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Research
 - [ResearchGate](http://www.researchgate.net/profile/Eunice_Soh2), where my research is posted
 - [Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ), where my indexed articles are presented
