@@ -11,11 +11,11 @@ redirect_from:
 
 Currently I am a Masters (full time) student at the National University of Singapore (NUS). 
 
-## Portfolio 
+## Portfolio 🦟
 
 View my **tech/viz/research porfolio** by clicking on the "portfolio" tab
 
-## Work experience
+## Work experience 🐜
 
 View my **work experience** with details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/)
 
@@ -36,7 +36,7 @@ View my **work experience** with details on [LinkedIn](https://www.linkedin.com/
 ## Tech stack 🦋
 
 - **Version control system**: git/github
-- **Automation, [data visualization](permalink: /portfolio/portfolio-1/), data science (analytics, machine learning)**: R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
+- **Automation, [data visualization](/portfolio/portfolio-1/), data science (analytics, machine learning)**: R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
 - **Basic software development**: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
 - **Rudimentary knowledge of cloud and data storage technologies** [need guidance]: Docker/Kubernetes, Google Cloud Platform (Firebase), Azure (storage: blob storage; computing: PySpark/ Dask/ Batch services), ClearDB mysql
 
