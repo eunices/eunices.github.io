@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eunice J.Y. Soh 🌻"
   avatar           : "profile.png"
-  bio              : "MSc student looking for employment opportunities from 2021 onwards. Contactable at eunice.sjy(at)gmail"
+  bio              : "MSc student looking for employment opportunities from 2021. Contactable at eunice.sjy(at)gmail.com"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -150,7 +150,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "md"
 
 
 # Conversion
@@ -176,9 +176,6 @@ kramdown:
 # Collections
 collections:
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  others:
     output: true
     permalink: /:collection/:path/
 
