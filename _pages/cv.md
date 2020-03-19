@@ -55,7 +55,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 - Yong GWJ, Wong MKL, **Soh EJY** (2017). Surprising offshore diversity: A preliminary checklist for the ant genera of Pulau Ubin island from rapid opportunistic sampling (Hymenoptera: Formicidae). Nature in Singapore, 10, 55–66. [link](https://www.researchgate.net/publication/318129786_A_preliminary_checklist_of_the_ant_genera_of_Pulau_Ubin_Singapore_from_rapid_opportunistic_sampling_Hymenoptera_Formicidae)
 - **Soh EJY**, Soh ZWW, Ascher JSA, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [link](https://www.researchgate.net/publication/337077776_Diversity_of_plants_with_leaves_cut_by_bees_of_the_genus_Megachile_in_Singapore)
 
-Download my **research work** from [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research)
+Download my **research work** from [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) and view featured [technical reports](/portfolio/portfolio-3).
 
 ## Conferences 🐛
 
