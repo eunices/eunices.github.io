@@ -25,7 +25,7 @@ collection: portfolio
 #### Species identification of *Megachile* in Singapore
 
 - One undergraduate project:
-  1. [Diversity and trap-nesting studies of Singaporean Megachile bees to inform monitoring and management of tropical pollinators](https://www.researchgate.net/publication/277554477_Diversity_and_trap-nesting_studies_of_Singaporean_Megachile_bees_to_inform_monitoring_and_management_of_tropical_pollinators)
+  1. [Diversity and trap-nesting studies of Singaporean *Megachile* bees to inform monitoring and management of tropical pollinators](https://www.researchgate.net/publication/277554477_Diversity_and_trap-nesting_studies_of_Singaporean_Megachile_bees_to_inform_monitoring_and_management_of_tropical_pollinators)
 
 ![Leaf paper](/images/portfolio3-leaf.png)
 
