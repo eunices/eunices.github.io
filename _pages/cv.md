@@ -66,7 +66,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 
 I am completing my thesis by 2021 and am looking for employment opportunities, including (but not limited to)
 
-1. **Internship** in a tech industry to gain experience either in software development or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
+1. **Internship** in a tech industry to gain experience either in web development (backend) or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
 2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
 3. **Research assistant** in environmental biology. Preferably in genomics, GIS or modelling. I hope to pick up molecular skills, remote sensing skills, or more mathematical/theoretical modelling.
 
