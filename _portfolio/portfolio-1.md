@@ -18,7 +18,7 @@ I learnt how to write code from web services to frontend which utilised the form
 
 ### Surbana Jurong lift predictive maintenance end-to-end POC, 2018-2019
 
-I was part of the AI Apprentice programme at NUS SCALE. Worked in a multidisciplinary team to create an end-to-end POC deliverable for a predictive maintenace model for lifts. Project included elements of data engineering, data cleaning, exploratory data analysis, data modelling/ model management, backend web services and scheduled jobs. 
+I was part of the AI Apprentice programme at NUS SCALE. Worked in a multidisciplinary team to create an end-to-end POC deliverable for a predictive maintenanace model for lifts. Project included elements of data engineering, data cleaning, exploratory data analysis, data modelling/ model management, backend web services and scheduled jobs. 
 
 I developed scripts in python pertaining to the exploratory data analysis, data modelling/ model management, and gained rudimentary knowledge on data engineering. I also learnt good software engineering practices such as Agile and code versioning, and writing technical documentation based on requirements.
 
@@ -34,4 +34,4 @@ I took up the Specialist Diploma on Mobile Application Programming at Singapore 
 ![Mobile app screenshot](/images/portfolio1-mobi.png)
 
 
-Last updated 15 Mar 2020
+Last updated 20 Mar 2020
