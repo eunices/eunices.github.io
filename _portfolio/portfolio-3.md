@@ -10,6 +10,7 @@ collection: portfolio
 
 - One undergraduate project:
   1. [Spatial Distribution of Javan mynas in Singapore](https://www.researchgate.net/publication/277554540_Spatial_Distribution_of_Javan_mynas_in_Singapore)
+- [Mini mapping projects](https://eunice.carbonmade.com/projects/4842799)
 
 ### Natural history of bees and ants
 
