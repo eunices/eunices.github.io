@@ -15,7 +15,7 @@ Currently, I am a Masters (full time) student at the National University of Sing
 
 ## Portfolio 🐜
 
-View my **[tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/)/[research](/portfolio/portfolio-3) porfolio** under [portfolio](/portfolio) tab.
+View my **[tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/) porfolio** under [portfolio](/portfolio) tab.
 
 ## Work experience 🦟
 
