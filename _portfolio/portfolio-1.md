@@ -7,7 +7,7 @@ collection: portfolio
 
 ### SSN web app, 2018-2019
 
-I was part of the Techladies bootcamp, to create a live web application for Singapore Sustanability Network to aggregate environmental NGOs in Singapore. See our project demo [here](https://www.facebook.com/ssnsingapore/videos/293450054683330/). Ours was a full-stack project using the MERN stack (MongoDB, Express, React.js, NodeJS) and Material UI, and deployed using Heroku/github.
+I was part of the Techladies bootcamp, to create a live web application for Singapore Sustanability Network to aggregate environmental NGOs in Singapore. See our project demo [here](https://www.facebook.com/ssnsingapore/videos/293450054683330/). Ours was a fullstack project using MERN (MongoDB, Express, React.js, NodeJS) and Material UI, and deployed using Heroku/github.
 
 I learnt how to write code from web services to frontend which utilised the former. Also learnt unit testing and heroku pipeline for continuous delivery.
 
