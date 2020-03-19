@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# Eunice J. Y. Soh
+## Eunice J.Y. Soh
 
-Currently, I am a Masters (full time) student at the National University of Singapore (NUS). Looking for [employment opportunities](/cv/#section-opportunities) in 2021.
+Currently, I am a Masters (full time) student at the National University of Singapore (NUS). Looking for [employment opportunities](#opportunities) in 2021.
 
 ## Portfolio 🐜
 
