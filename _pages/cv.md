@@ -11,7 +11,7 @@ redirect_from:
 
 ## Eunice J.Y. Soh
 
-Hello! Currently, I am a Masters (full time) student at the National University of Singapore (NUS). Looking for [employment opportunities](#opportunities-) in 2021.
+Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in 2021.
 
 ## [Portfolio](/portfolio) 🐜
 
