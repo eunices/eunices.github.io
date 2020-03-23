@@ -30,7 +30,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 ## Education 💯
 
 - MSc, by research (Environmental Science), NUS - ongoing
-- SDip (Programming and Mobile User Interaction), Singapore Polytechnic - Feb.2020
+- SDip (Mobile Application Development), Singapore Polytechnic - Feb.2020
 - AI apprentice, NUS SCALE - Jan.2019 
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
 - BSc, Hons (Life Sciences), NUS - Feb.2015 
