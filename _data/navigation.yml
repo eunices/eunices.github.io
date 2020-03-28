@@ -3,9 +3,9 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Hobbies"
-    url: /others/
-
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Hobbies"
+    url: /others/
         
