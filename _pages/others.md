@@ -1,5 +1,5 @@
 ---
-title: "Ancillary info"
+title: "Hobbies"
 permalink: /others/
 author_profile: true
 ---
