@@ -7,7 +7,8 @@ redirect_from:
   - /cv.html
 ---
 
-[Portfolio](#portfolio-) | [Work experience](#work-experience-) | [Education](#education-) | [Tech stack](#tech-stack-) 
+[Portfolio](#portfolio-) | [Work experience](#work-experience-)
+[Education](#education-) | [Tech stack](#tech-stack-) 
 [Publications](#publications-) & [Conferences](#conferences-) | [Opportunities](#opportunities-)
 
 {% include base_path %}
