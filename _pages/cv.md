@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Portfolio](#portfolio-) | [Work experience](#work-experience-) | [Education](#education-) | [Tech stack](#tech-stack-) | Research ([Publications](#publications-) & [Conferences](#conferences-)) | [Opportunities](#opportunities-)
+
+
 ## Eunice J.Y. Soh
 
 Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in 2021.
