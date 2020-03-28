@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-GB"
 title                    : "Eunice J.Y. Soh"
-title_separator          : " | "
+title_separator          : "|"
 name                     : &name "Eunice J. Y. Soh"
 description              : &description "NUS student"
 url                      : https://eunices.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
