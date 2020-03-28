@@ -7,9 +7,9 @@ redirect_from:
   - /cv.html
 ---
 
-{% include base_path %}
-
 [Portfolio](#portfolio-) | [Work experience](#work-experience-) | [Education](#education-) | [Tech stack](#tech-stack-) | [Publications](#publications-) & [Conferences](#conferences-) | [Opportunities](#opportunities-)
+
+{% include base_path %}
 
 
 ## Eunice J.Y. Soh
