@@ -59,6 +59,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 - **Soh EJY**, Soh ZWW, Ascher JSA, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [link](https://www.researchgate.net/publication/337077776_Diversity_of_plants_with_leaves_cut_by_bees_of_the_genus_Megachile_in_Singapore)
 
 [Featured technical reports here](/portfolio/portfolio-3) and all research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research).
+[Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ)
 
 ## Conferences 🐛
 
