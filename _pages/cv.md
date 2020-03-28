@@ -16,11 +16,11 @@ redirect_from:
 
 Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in 2021.
 
-## [Portfolio](/portfolio) 🐜
+## Portfolio 🐜
 
 View my [tech](/portfolio/portfolio-1/)/[viz](/portfolio/portfolio-2/) portfolio.
 
-## [Work experience](https://www.linkedin.com/in/eunicesoh/) 🦟
+## Work experience 🦟
 
 - MSc researcher, NUS - Aug.2019-Present 
 - AI apprentice, AI Singapore - May.2018-Jan.2019 
@@ -45,7 +45,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 - **Basic software development**: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
 - **Rudimentary knowledge of cloud and data storage technologies** [guidance needed]: Docker/Kubernetes, Google Cloud Platform (Firebase), Azure (storage: blob storage; computing: PySpark/ Dask/ Batch services), ClearDB mysql
 
-## [Publications](https://www.researchgate.net/profile/Eunice_Soh2/research) 🐝
+## Publications 🐝
 
 **International publications**
 - Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran, NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513 [minor collaborator]. [link](https://www.researchgate.net/publication/315766876_Dynamic_microbiome_evolution_in_social_bees)
