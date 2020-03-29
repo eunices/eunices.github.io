@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [Portfolio](#portfolio-) | [Work experience](#work-experience-) | [Education](#education-) 
-[Tech stack](#tech-stack-) | [Publications](#publications-) | [Conferences](#conferences-) | [Opportunities](#opportunities-)
+[Tech stack](#tech-stack-) | [Publications](#publications-) | [Conferences](#conferences-) 
 
 {% include base_path %}
 
