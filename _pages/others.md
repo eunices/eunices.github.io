@@ -19,7 +19,7 @@ author_profile: true
 - [e.j.y.soh](https://medium.com/@e.j.y.soh), my science & coding blog (not yet updated)
 
 ## Photography and videography
-- [Flickr](https://www.flickr.com/photos/crazyme/albums), for photos
+- [Flickr](https://www.flickr.com/photos/ejysoh/albums), for photos
 - [Vimeo](https://vimeo.com/ejysoh), for videos
 
 ## Design
