@@ -37,14 +37,13 @@ I took up the Specialist Diploma on Mobile Application Programming at Singapore 
 ### Small projects
 
 
-#### Fitbit Ionic Watch Face
+#### Fitbit Ionic Clock Face
 
-Made this because there were few watches that were pretty and had the necessary stats. that I wanted on the watch (heart rate, distance, steps, time w/ seconds, date and day).
+Made this because there were few clock faces that were pretty and had the necessary stats. that I wanted on the watch (heart rate, distance, steps, time w/ seconds, date and day).
 
 - [Github repository](https://github.com/eunices/ionic-sakura)
 
 ![Ionic Sakura](/images/portfolio1-ionic-sakura.png)
 
 
-
-Last updated 20 Mar 2020
+Last updated 8 Jun 2020
