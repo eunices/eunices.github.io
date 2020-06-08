@@ -19,8 +19,8 @@ Hello! Currently, I am a full-time Masters by research student at NUS. Looking f
 
 ## Portfolio 🐜
 
-- Technology portfolio: [here](https://eunices.github.io/portfolio/portfolio-1/)
-- Visualisation portfolio: [here](https://eunices.github.io/portfolio/portfolio-2/)
+- Technology portfolio: [here](portfolio/portfolio-1/)
+- Visualisation portfolio: [here](portfolio/portfolio-2/)
 
 ## Work experience 🦟
 
