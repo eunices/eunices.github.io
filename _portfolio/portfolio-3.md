@@ -26,7 +26,7 @@ For MSc, I mainly focused on data analysis skills (see below for more info.). I 
     1. [Ant Diversity in Urban Matrices of Kent Ridge](https://www.researchgate.net/publication/277554411_Ant_Diversity_in_Urban_Matrices_of_Kent_Ridge)
     2. [Assessing Ant Functional Groups in Primary and Secondary Forests](https://www.researchgate.net/publication/277554429_Assessing_Ant_Functional_Groups_in_Primary_and_Secondary_Forests)
 
-![Ant paper. Image by Gordon Yong](/images/portfolio3-ant.png)
+![Ant paper. Image by Gordon Yong](/images/portfolio3-ant.png)<br>
 *Image by Gordon Yong*
 
 #### Species identification and natural history of *Megachile* in Singapore
@@ -44,7 +44,7 @@ For MSc, I mainly focused on data analysis skills (see below for more info.). I 
   - Modularity in coauthorship networks across countries
   - Specialist/generalist relationships, guilds in bee-pollinator networks
 - Modifying/utilising code from existing papers
-  - Fitting density-dependent curves, to estimate year of gender parity ([Holman et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956))
+  - Fitting density-dependent curves, to estimate year of gender parity for bee describers ([Holman et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956))
   - Bayesian analyses with stan, to predict number of bee species to be described ([Edie et al. 2017](https://www.pnas.org/content/114/14/3666))
 - Flows of resources from one country to another
   - GLM/Gravity model
