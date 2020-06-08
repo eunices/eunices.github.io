@@ -39,7 +39,7 @@ I took up the Specialist Diploma on Mobile Application Programming at Singapore 
 
 #### Fitbit Ionic Clock Face
 
-Made this because there were few clock faces that were pretty and had the necessary stats. that I wanted on the watch (heart rate, distance, steps, time w/ seconds, date and day).
+Made this because there were few clock faces that were pretty and had the necessary stats. that I wanted on the watch (heart rate, distance, steps, time w/ seconds, date and day). This project was made with Javascript, and simple HTML/CSS. 
 
 - [Github repository](https://github.com/eunices/ionic-sakura)
 
