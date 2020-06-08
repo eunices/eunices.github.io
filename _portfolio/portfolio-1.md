@@ -43,7 +43,7 @@ Made this because there were few clock faces that were pretty and had the necess
 
 - [Github repository](https://github.com/eunices/ionic-sakura)
 
-![Ionic Sakura](/images/portfolio1-ionic-sakura.png)
+![Ionic Sakura](/images/portfolio1-s-ionic-sakura.png)
 
 
 Last updated 8 Jun 2020
