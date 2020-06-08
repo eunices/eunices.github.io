@@ -4,11 +4,11 @@ excerpt: "Documenting my research journey."
 collection: portfolio
 ---
 
-In general, these are the skills I've picked up during my time during research. See [My ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) for more information.
+In general, these are the skills I've picked up during my time doing research. See [my ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) for more publication/ report outputs.
 
-For undergraduate days, this includes 1) Mapping and analyses using Geographical Information Systems [GIS], 2) Generic identification of ants in Asia, 3) Species identification of *Megachile* in Singapore. 
+For undergraduate days, this includes 1) mapping and analyses using Geographical Information Systems [GIS], 2) generic identification of ants in Asia, 3) species identification of *Megachile* in Singapore. 
 
-For my MSc, [to be updated]
+For MSc, to be updated as it is still ongoing.
 
 ## Undergraduate research themes
 
