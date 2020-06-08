@@ -8,7 +8,7 @@ In general, these are the skills I've picked up during my time doing research. S
 
 For undergraduate days, this includes 1) mapping and analyses using Geographical Information Systems [GIS], 2) generic identification of ants in Asia, 3) species identification of *Megachile* in Singapore. 
 
-For MSc, I mainly focused on data analysis skills (see below for more info.).
+For MSc, I mainly focused on data analysis skills (see below for more info.). I will update this in more detail in the future.
 
 ## Undergraduate research themes
 
@@ -48,5 +48,7 @@ For MSc, I mainly focused on data analysis skills (see below for more info.).
   - Bayesian analyses with stan, to predict number of bee species to be described ([Edie et al. 2017](https://www.pnas.org/content/114/14/3666))
 - Flows of resources from one country to another
   - GLM/Gravity model
+
+[to be updated in greater detail]
 
 Last updated 8 Jun 2020
