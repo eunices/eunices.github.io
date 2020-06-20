@@ -54,7 +54,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 - Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran, NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513 [minor collaborator]. [link](https://www.researchgate.net/publication/315766876_Dynamic_microbiome_evolution_in_social_bees)
 
 **Local publications**
-- Ascher J, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. [link](https://www.researchgate.net/publication/303189173_Megachile_leaf-cutter_and_resin_bees_of_Singapore_Hymenoptera_Apoidea_Megachilidae)
+- Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. [link](https://www.researchgate.net/publication/303189173_Megachile_leaf-cutter_and_resin_bees_of_Singapore_Hymenoptera_Apoidea_Megachilidae)
 
 **Peer-reviewed, non-indexed journals**
 - **Soh EJY**, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62. [link](https://www.researchgate.net/publication/306009526_The_bee_tribe_Anthidiini_in_Singapore_Anthophila_Megachilidae_Anthidiini_with_notes_on_the_regional_fauna)
