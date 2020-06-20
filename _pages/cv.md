@@ -58,7 +58,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
 **Peer-reviewed, non-indexed journals**
 - **Soh EJY**, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62. [link](https://www.researchgate.net/publication/306009526_The_bee_tribe_Anthidiini_in_Singapore_Anthophila_Megachilidae_Anthidiini_with_notes_on_the_regional_fauna)
 - Yong GWJ, Wong MKL, **Soh EJY** (2017). Surprising offshore diversity: A preliminary checklist for the ant genera of Pulau Ubin island from rapid opportunistic sampling (Hymenoptera: Formicidae). Nature in Singapore, 10, 55–66. [link](https://www.researchgate.net/publication/318129786_A_preliminary_checklist_of_the_ant_genera_of_Pulau_Ubin_Singapore_from_rapid_opportunistic_sampling_Hymenoptera_Formicidae)
-- **Soh EJY**, Soh ZWW, Ascher JSA, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [link](https://www.researchgate.net/publication/337077776_Diversity_of_plants_with_leaves_cut_by_bees_of_the_genus_Megachile_in_Singapore)
+- **Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [link](https://www.researchgate.net/publication/337077776_Diversity_of_plants_with_leaves_cut_by_bees_of_the_genus_Megachile_in_Singapore)
 
 [Featured technical reports here](/portfolio/portfolio-3) and all research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research). Also on 
 [Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ).
