@@ -45,5 +45,11 @@ Made this because there were few clock faces that were pretty and had the necess
 
 ![Ionic Sakura](/images/portfolio1-s-ionic-sakura.png)
 
+#### SgAnts R package
 
-Last updated 8 Jun 2020
+Made this to classify species to an IUCN threat status using a rule-based decision tree. Set up Continuous Integration (r-cmd-check) with Github Actions as well as testing reports generated with codecov.io. 
+
+- [Github repository](https://github.com/eunices/sgAnts)
+
+
+Last updated 7 Jul 2020
