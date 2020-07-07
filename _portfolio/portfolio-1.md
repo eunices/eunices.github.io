@@ -51,5 +51,6 @@ Made this to classify species to an IUCN threat status using a rule-based decisi
 
 - [Github repository](https://github.com/eunices/sgAnts)
 
+![Ionic Sakura](/images/portfolio1-sgants.png)
 
 Last updated 7 Jul 2020
