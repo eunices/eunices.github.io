@@ -47,7 +47,7 @@ Made this because there were few clock faces that were pretty and had the necess
 
 #### SgAnts R package
 
-Made this to classify species to an IUCN threat status using a rule-based decision tree. Set up Continuous Integration (r-cmd-check) with Github Actions as well as testing reports generated with codecov.io. 
+Made this to classify species to an IUCN threat status using a rule-based decision tree. Set up Continuous Integration with Github Actions through `r-cmd-check` and testing reports integrated with codecov.io. 
 
 - [Github repository](https://github.com/eunices/sgAnts)
 
