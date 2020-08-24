@@ -31,7 +31,7 @@ Hello! Currently, I am a full-time Masters by research student at NUS. Looking f
 - Data administrator, A*STAR SICS - Jul.2016-Jun.2017
 - Researcher, NEA EHI - Apr.2015-Jul.2016 
 
-More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/).
+More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/) or [NUS TalentConnect](https://nus-csm.symplicity.com/profiles/eunices).
 
 ## Education 💯
 
@@ -73,8 +73,8 @@ All research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_
 I am completing my thesis by 2021 and am looking for employment opportunities, including (but not limited to)
 
 1. **Internship/ contract position** in the tech industry to gain experience. Preferably web development (backend) or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
-2. **BI analyst/ data analyst**. Preferably in government, healthcare or non-profit setting.
-3. **Research assistant** in environmental biology/epidemiology. Preferably in genomics, GIS or modelling. I hope to pick up molecular skills, remote sensing skills, or more mathematical/theoretical modelling.
+2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
+3. **Research assistant** in environmental biology/epidemiology. Preferably in genomics, GIS or modelling. I hope to pick up molecular skills, remote sensing skills, or statistical modelling/ AI/ mathematical modelling.
 
 If I am a good fit/ if you wish to view my full resume, you may contact me at [eunice.sjy(at)gmail.com](mailto:eunice.sjy@gmail.com).
 
