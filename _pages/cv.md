@@ -31,7 +31,7 @@ Hello! Currently, I am a full-time Masters by research student at NUS. Looking f
 - Data administrator, A*STAR SICS - Jul.2016-Jun.2017
 - Researcher, NEA EHI - Apr.2015-Jul.2016 
 
-More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/) or [NUS TalentConnect](https://nus-csm.symplicity.com/profiles/eunices).
+More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/) or [NUS TalentConnect](https://nus-csm.symplicity.com/profiles/eunicesoh).
 
 ## Education 💯
 
