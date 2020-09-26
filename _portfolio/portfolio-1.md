@@ -51,7 +51,7 @@ Made this to classify species to an IUCN threat status using a rule-based decisi
 
 ### Wedding website, 2020
 
-A site for a wedding invitation with a map and RSVP form, based off another repository [here](https://github.com/rampatra/wedding-website). It's static (thus can be hosted on github.io) and serverless (using Google Forms for RSVP and sends an email receipt after form submission). Used JS (node packages and jquery), CSS, HTML, Google App scripts, Google Maps API.
+A site for a wedding invitation with a map and RSVP form, based off another repository [here](https://github.com/rampatra/wedding-website). It's static (thus can be hosted on github.io) and serverless (using Google Forms to store RSVP and Google App scripts to send email receipt after form submission). Used JS (node packages and jquery), CSS, HTML, Google App scripts, Google Maps API.
 
 - Github repository currently private for now
 
