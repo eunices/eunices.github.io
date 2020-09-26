@@ -34,10 +34,8 @@ I took up the Specialist Diploma on Mobile Application Programming at Singapore 
 ![Mobile app screenshot](/images/portfolio1-mobi.png)
 
 
-### Small projects
 
-
-#### Fitbit Ionic Clock Face
+### Fitbit Ionic Clock Face
 
 Made this because there were few clock faces that were pretty and had the necessary stats. that I wanted on the watch (heart rate, distance, steps, time w/ seconds, date and day). This project was made with Javascript, and simple HTML/CSS. 
 
@@ -45,7 +43,7 @@ Made this because there were few clock faces that were pretty and had the necess
 
 ![Ionic Sakura](/images/portfolio1-s-ionic-sakura.png)
 
-#### SgAnts R package
+### SgAnts R package
 
 Made this to classify species to an IUCN threat status using a rule-based decision tree. Set up Continuous Integration with Github Actions through `r-cmd-check` and testing reports integrated with codecov.io. 
 
@@ -53,7 +51,7 @@ Made this to classify species to an IUCN threat status using a rule-based decisi
 
 ![Ionic Sakura](/images/portfolio1-sgants.png)
 
-#### Wedding website
+### Wedding website
 
 A site for a wedding invitation with a map and RSVP form, based off another repository [here](https://github.com/rampatra/wedding-website). It's static (thus can be hosted on github.io) and serverless (using Google Forms for RSVP). Used jquery, CSS, HTML, Google App scripts, Google Maps API.
 
