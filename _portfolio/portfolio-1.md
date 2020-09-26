@@ -53,4 +53,13 @@ Made this to classify species to an IUCN threat status using a rule-based decisi
 
 ![Ionic Sakura](/images/portfolio1-sgants.png)
 
-Last updated 7 Jul 2020
+#### Wedding website
+
+A site for an upcoming wedding invitation with a map and RSVP form, based off another repository [here](https://github.com/rampatra/wedding-website). It's static (thus can be hosted on github.io) and serverless (using Google Forms for RSVP). Used jquery, CSS, HTML, Google App scripts, Google Maps API.
+
+- Github repository currently private for now
+
+![Wedding RSVP](/images/portfolio1-wedding.png)
+
+
+Last updated 26 Sep 2020
