@@ -46,7 +46,7 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/) or [NUS Talen
 - **Version control system**: git/[github](https://github.com/eunices)
 - **[Data visualization](/portfolio/portfolio-2/) and [data science/analytics/machine learning](/portfolio/portfolio-1/)**: R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
 - **Basic software development**: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
-- **Rudimentary knowledge of cloud and data storage technologies** [guidance needed]: Docker/Kubernetes, Google Cloud Platform (Firebase), Azure (storage: blob storage; computing: PySpark/ Dask/ Batch services), ClearDB mysql
+- **Basic knowledge of cloud tech**: Docker/Kubernetes, Google Cloud Platform, ClearDB
 
 ## Publications 🐝
 
