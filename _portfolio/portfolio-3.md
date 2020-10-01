@@ -10,7 +10,7 @@ While doing my undergraduate studies, research included 1) mapping and analyses 
 
 For MSc, I mainly focused on cleaning complex data and analysing data using statistical methods (see below for more info.). I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
 
-## Undergraduate research themes
+## Undergraduate research
 
 ### Mapping and analyses (Geographical Information Systems [GIS])
 
@@ -18,9 +18,8 @@ For MSc, I mainly focused on cleaning complex data and analysing data using stat
   1. [Spatial Distribution of Javan mynas in Singapore](https://www.researchgate.net/publication/277554540_Spatial_Distribution_of_Javan_mynas_in_Singapore)
 - [Mini mapping projects](https://eunice.carbonmade.com/projects/4842799)
 
-### Natural history of bees and ants
 
-#### Generic identification of ants in Asia
+### Community ecology and generic identification of ants in Asia
 
 - Two undergraduate projects:
     1. [Ant Diversity in Urban Matrices of Kent Ridge](https://www.researchgate.net/publication/277554411_Ant_Diversity_in_Urban_Matrices_of_Kent_Ridge)
@@ -29,7 +28,7 @@ For MSc, I mainly focused on cleaning complex data and analysing data using stat
 ![Ant paper. Image by Gordon Yong](/images/portfolio3-ant.png)<br>
 *Image by Gordon Yong*
 
-#### Species identification and natural history of *Megachile* in Singapore
+### Natural history and species identification of *Megachile* in Singapore
 
 - One undergraduate project:
   1. [Diversity and trap-nesting studies of Singaporean *Megachile* bees to inform monitoring and management of tropical pollinators](https://www.researchgate.net/publication/277554477_Diversity_and_trap-nesting_studies_of_Singaporean_Megachile_bees_to_inform_monitoring_and_management_of_tropical_pollinators)
@@ -48,7 +47,6 @@ For MSc, I mainly focused on cleaning complex data and analysing data using stat
 - Utilising and modifying code from existing papers
   - Fitting density-dependent curves, to estimate year of gender parity for bee describers ([Holman et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956))
   - Bayesian analyses with stan, to predict number of bee species to be described ([Edie et al. 2017](https://www.pnas.org/content/114/14/3666))
-
 
 - Flows of resources from one country to another using GLM/ logistic regression
 
