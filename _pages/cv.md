@@ -33,6 +33,7 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 ## Education 💯
 
 - MSc, by research (Environmental Science), NUS - ongoing
+- SDip (Big Data & Streaming Analytics), Singapore Polytechnic - ongoing
 - SDip (Mobile Application Development), Singapore Polytechnic - Feb.2020
 - AI apprentice, NUS SCALE - Jan.2019 
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
