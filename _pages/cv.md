@@ -17,9 +17,8 @@ I am a keen learner and goal-oriented worker with experience as a data analyst a
 
 ## Portfolio 🐜
 
-- Technology portfolio: [here](portfolio/portfolio-1/)
-- Visualisation portfolio: [here](portfolio/portfolio-2/)
-- Research portfolio: [here](portfolio/portfolio-3/)
+Technology portfolio: [here](portfolio/portfolio-1/)
+| Visualisation portfolio: [here](portfolio/portfolio-2/) | Research portfolio: [here](portfolio/portfolio-3/)
 
 ## Work experience 🦟
 
