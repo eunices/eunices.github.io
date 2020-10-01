@@ -6,9 +6,9 @@ collection: portfolio
 
 In general, these are the skills I've picked up during my time doing research. See [my ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) for more publication/ report outputs.
 
-For undergraduate days, this includes 1) mapping and analyses using Geographical Information Systems [GIS], 2) generic identification of ants in Asia, 3) species identification of *Megachile* in Singapore. 
+While doing my undergraduate studies, research included 1) mapping and analyses using Geographical Information Systems [GIS], 2) community ecology and generic identification of ants in Asia, 3) natural history and species identification of *Megachile* in Singapore. 
 
-For MSc, I mainly focused on data analysis skills (see below for more info.). I will update this in more detail in the future.
+For MSc, I mainly focused on cleaning complex data and analysing data using statistical methods (see below for more info.). I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
 
 ## Undergraduate research themes
 
@@ -40,15 +40,16 @@ For MSc, I mainly focused on data analysis skills (see below for more info.). I 
 
 ### Data analysis skills
 
-- Network analysis
+- Network analysis applied to
   - Modularity in coauthorship networks across countries
-  - Specialist/generalist relationships, guilds in bee-pollinator networks
-- Modifying/utilising code from existing papers
+  - Specialist/ generalist relationships, guilds in bee-pollinator networks
+
+
+- Utilising and modifying code from existing papers
   - Fitting density-dependent curves, to estimate year of gender parity for bee describers ([Holman et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956))
   - Bayesian analyses with stan, to predict number of bee species to be described ([Edie et al. 2017](https://www.pnas.org/content/114/14/3666))
-- Flows of resources from one country to another
-  - GLM/Gravity model
 
-[to be updated in greater detail]
 
-Last updated 8 Jun 2020
+- Flows of resources from one country to another using GLM/ logistic regression
+
+Last updated 1 Oct 2020
