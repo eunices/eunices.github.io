@@ -43,10 +43,9 @@ More details on [LinkedIn](https://www.linkedin.com/in/eunicesoh/) or [NUS Talen
 
 ## Tech stack 🦋
 
-- **Version control system**: git/[github](https://github.com/eunices)
-- **[Data visualization](/portfolio/portfolio-2/) and [data science/analytics/machine learning](/portfolio/portfolio-1/)**: R, Python (sklearn, networkx), Excel VBA, ArcGIS, Tableau 
-- **Basic software development**: HTML/CSS, Javascript (React+ExpressJS, d3.js), Java (Android Studio), Heroku
-- **Basic knowledge of cloud tech**: Docker/Kubernetes, Google Cloud Platform, ClearDB
+- Automation, [data visualization]((/portfolio/portfolio-2/)), [data science]((/portfolio/portfolio-1/)): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
+- Basic software development: HTML/CSS, Javascript (React+ExpressJS, d3.js, jquery), Java (Android Studio), git/github
+-	Basic cloud tools: Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku
 
 ## Publications 🐝
 
