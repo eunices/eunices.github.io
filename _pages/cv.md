@@ -11,9 +11,9 @@ redirect_from:
 
 ## Eunice J.Y. Soh
 
-Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in second half of 2021. 
+Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in second half of 2021.
 
-I am a keen learner and goal-oriented worker with work experience as a data analyst, and in data management and research, in various public agencies.
+I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies. 
 
 ## Portfolio 🐜
 
