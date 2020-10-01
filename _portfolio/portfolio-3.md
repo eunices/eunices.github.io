@@ -35,7 +35,7 @@ For MSc, I focus mainly on cleaning complex data and analysing data using statis
 
 ![Leaf paper](/images/portfolio3-leaf.png)
 
-## Masters research themes
+## Masters research
 
 ### Data analysis skills
 
