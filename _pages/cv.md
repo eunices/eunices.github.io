@@ -41,7 +41,7 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 
 ## Tech stack 🦋
 
-- Automation, [data visualization]((/portfolio/portfolio-2/)), [data science]((/portfolio/portfolio-1/)): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
+- Automation, [data visualization](/portfolio/portfolio-2/), [data science](/portfolio/portfolio-1/): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
 - Basic software development: HTML/CSS, Javascript (React+ExpressJS, d3.js, jquery), Java (Android Studio), git/github
 -	Basic cloud tools: Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku
 
