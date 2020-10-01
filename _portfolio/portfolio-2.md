@@ -10,7 +10,7 @@ This features small & side visualisation projects, typically hosted on R Shiny s
 
 URL: [Covid19 in Singapore](https://tinyurl.com/ejys-covid)
 
-A project to visualise the statistics released by MOH. Includes case load, case fatality rate (also stratified by date), case load, imported cases origin. Individual case data only from 23 Jan to 19 Apr. Stopped data collection on 20 Apr. 
+A project to visualise the statistics released by MOH. Includes case load, case fatality rate (also by date), case load, imported cases origin. Individual case data only from 23 Jan to 19 Apr. Stopped data collection on 20 Apr. 
 ![Covid](/images/portfolio2-covid.png)
 ![Covid](/images/portfolio2-covid1.png)
 ![Covid](/images/portfolio2-covid2.png)
