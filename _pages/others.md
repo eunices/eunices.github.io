@@ -13,6 +13,8 @@ author_profile: true
 - [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
 - [Code katas](https://www.codewars.com/users/eunix), to practise coding
 - [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses
+- [Qwiklabs1](https://www.qwiklabs.com/public_profiles/aaa6e903-6b10-4c05-969e-881c6fad0b92), where I learn cloud tech stuff
+- [Qwiklabs2](https://www.qwiklabs.com/public_profiles/9b208ce2-6896-4a6d-89d2-f04235be3e22), same as preceding but a newer account
 
 ## Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
