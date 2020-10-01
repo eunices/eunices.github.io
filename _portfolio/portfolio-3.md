@@ -8,7 +8,7 @@ In general, these are the skills I've picked up during my time doing research. S
 
 While doing my undergraduate studies, research included 1) mapping and analyses using Geographical Information Systems [GIS], 2) community ecology and generic identification of ants in Asia, 3) natural history and species identification of *Megachile* in Singapore. 
 
-For MSc, I mainly focused on cleaning complex data and analysing data using statistical methods (see below for more info.). I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
+For MSc, I mainly focused on cleaning complex data and analysing data using statistical methods (see below for more info.) and am supervised by Assoc Prof Roman Carrasco (main supervisor) and Asst Prof John Ascher. I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
 
 ## Undergraduate research
 
