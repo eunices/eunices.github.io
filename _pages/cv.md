@@ -73,7 +73,7 @@ I am completing my thesis in Jul 2021 and am looking for employment opportunitie
 2. **Policy/ data analyst**. Preferably in government, healthcare or non-profit setting.
 3. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these domains: 
 - molecular biology (next-generation sequencing for population genomics), 
-- remote sensing (Lidar/ landuse classification), 
+- remote sensing (Lidar for vegetation, landuse classification), 
 - plant identification, 
 - statistical modelling (food security, eco-epidemiology), 
 - artificial intelligence (computer vision for species identification) and/or
