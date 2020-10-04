@@ -13,7 +13,7 @@ redirect_from:
 
 Hello! Currently, I am a full-time Masters by research student at NUS. 
 
-I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies. I am looking to transit into a tech role or to build on existing experience as a data analyst or researcher after I graduate from Aug 2021. I'm open (though not limited to) to these [employment opportunities](#opportunities-). Please connect with me on [LinkedIn](https://linkedin.com/in/eunices) or contact me via email if my resume looks interesting to you. 
+I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies. I am looking to transit into a tech role or to build on existing experience as a data analyst or researcher after graduating, from Aug 2021. I'm open (though not limited to) to these [employment opportunities](#opportunities-). Please connect with me on [LinkedIn](https://linkedin.com/in/eunices) or contact me via email if my resume looks interesting to you. 
 
 ## Portfolio 🐜
 
@@ -41,9 +41,10 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 
 ## Tech stack 🦋
 
-- Automation, data visualization, data science: R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
-- Basic software development: HTML/CSS, Javascript (React+ExpressJS, d3.js, jquery), Java (Android Studio), git/github
-- Basic cloud tools: Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku
+- Automation, data visualization, data science (intermediate): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
+- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio), git/github
+-	DevOps and cloud tools (basic): Linux shell scripting, Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku 
+
 
 ## Publications 🐝
 
