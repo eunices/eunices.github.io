@@ -11,9 +11,13 @@ redirect_from:
 
 ## Eunice J.Y. Soh
 
-Hello! Currently, I am a full-time Masters by research student at NUS. Looking for [employment opportunities](#opportunities-) in second half of 2021.
+Hello! Currently, I am a full-time Masters by research student at NUS. 
 
-I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies. 
+I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies.
+
+I am looking to make a transit into a tech role after I graduate from Aug 2021 onwards or to build on existing exprience as a data analyst or researcher. I'm open (though not limited to) to these [employment opportunities](#opportunities-).
+
+Please connect with me on [LinkedIn](https://linkedin.com/in/eunices) or via email if my resume looks interesting to you. 
 
 ## Portfolio 🐜
 
@@ -67,7 +71,7 @@ All research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_
 
 ## Opportunities 🐞
 
-I am completing my thesis in second half of 2021 and am looking for employment opportunities, including (but not limited to)
+I am completing my thesis in Jul 2021 and am looking for employment opportunities from Aug 2021, including (but not limited to)
 
 1. **Internship/ contract position** in the tech industry to gain experience. Preferably web development (backend) or data engineering. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
 2. **Policy/ data analyst**. Preferably in government, healthcare or non-profit setting.
