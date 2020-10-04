@@ -42,7 +42,7 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 ## Tech stack 🦋
 
 - Automation, data visualization, data science (intermediate): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
-- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio), git/github
+- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github
 -	DevOps and cloud tools (basic): Linux shell scripting, Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku 
 
 
