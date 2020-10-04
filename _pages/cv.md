@@ -15,7 +15,7 @@ Hello! Currently, I am a full-time Masters by research student at NUS.
 
 I am a keen learner and goal-oriented worker with prior experience as a data analyst, and in data management and research, across various public agencies.
 
-I am looking to make a transit into a tech role after I graduate from Aug 2021 onwards or to build on existing exprience as a data analyst or researcher. I'm open (though not limited to) to these [employment opportunities](#opportunities-).
+I am looking to make a transit into a tech role after I graduate from Aug 2021 onwards or to build on existing experience as a data analyst or researcher. I'm open (though not limited to) to these [employment opportunities](#opportunities-).
 
 Please connect with me on [LinkedIn](https://linkedin.com/in/eunices) or via email if my resume looks interesting to you. 
 
