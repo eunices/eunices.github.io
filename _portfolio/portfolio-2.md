@@ -8,7 +8,7 @@ This features small & side visualisation projects, typically hosted on R Shiny s
 
 ## Covid19 in Singapore, 2020
 
-URL: [Covid19 in Singapore](https://tinyurl.com/ejys-covid)
+URL: [Covid19 in Singapore](https://github.com/eunices/shiny-server/blob/master/public-apps/covid19/covid19-sg.rmd)
 
 A project to visualise the statistics released by MOH. Includes case load, case fatality rate (also by date), case load, imported cases origin. Individual case data only from 23 Jan to 19 Apr. Stopped data collection on 20 Apr. 
 ![Covid](/images/portfolio2-covid.png)
@@ -17,7 +17,7 @@ A project to visualise the statistics released by MOH. Includes case load, case 
 
 ## Monte Carlo simulation for estimating $\pi$, 2020
 
-URL: [Monte Carlo simulation for estimating $\pi$](https://tinyurl.com/ejys-circle)
+URL: [Monte Carlo simulation for estimating $\pi$](https://github.com/eunices/shiny-server/blob/master/public-apps/circle/circle.rmd)
 
 To test out shiny dashboards, I created this: Monte Carlo sampling to estimate the value of $\pi$.
 
