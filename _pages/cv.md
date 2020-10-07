@@ -72,13 +72,13 @@ I am completing my thesis in Jul 2021 and am looking for employment opportunitie
 
 1. **Internship/ contract position** in the tech industry to gain hands-on/ practical experience. Preferably web development (backend or full stack), data engineering or dev ops. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
 2. **Policy/ data analyst**. Preferably in government, healthcare or non-profit setting.
-3. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these domains: 
-- molecular biology (next-generation sequencing for population genomics), 
-- remote sensing (Lidar for vegetation, landuse classification), 
-- plant identification, 
+3. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
+- artificial intelligence (computer vision for species identification),
 - statistical modelling (food security, eco-epidemiology), 
-- artificial intelligence (computer vision for species identification) and/or
-- mathematical modelling (epidemiology).
+- plant identification, 
+- remote sensing (Lidar for vegetation, landuse classification), 
+- mathematical modelling (epidemiology) and/or
+- molecular biology (next-generation sequencing for population genomics).
 
 If I am a good fit/ if you wish to view my full resume, you may contact me at [eunice.sjy(at)gmail.com](mailto:eunice.sjy@gmail.com).
 
