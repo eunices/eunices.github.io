@@ -75,8 +75,8 @@ I am completing my thesis in Jul 2021 and am looking for employment opportunitie
 3. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
 - artificial intelligence (computer vision for species identification),
 - statistical modelling (food security, eco-epidemiology), 
-- plant identification, 
 - remote sensing (Lidar for vegetation, landuse classification), 
+- plant identification, 
 - mathematical modelling (epidemiology) and/or
 - molecular biology (next-generation sequencing for population genomics).
 
