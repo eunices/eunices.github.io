@@ -47,9 +47,10 @@ Certification for Google Cloud Associate Cloud Engineer (includes networking, Do
 
 ## Tech stack 🦋
 
-- Automation, data visualization, data science (intermediate): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
-- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github
--	DevOps and cloud tools (basic): Linux shell scripting, Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku 
+- Automation, data visualization, data science (intermediate): R, Python, VBA Excel, ArcGIS, QGIS, Tableau 
+- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github 
+- DevOps on the cloud (basic): Linux shell, Google Cloud Platform, Docker, Kubernetes, Heroku
+
 
 ## Publications 🐝
 
