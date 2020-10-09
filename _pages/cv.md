@@ -39,12 +39,17 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
 - BSc, Hons (Life Sciences), NUS - Feb.2015 
 
+## Tech bootcamps 💪
+- [Code with Cloud bootcamp](https://cloud.codinggirls.sg/) (Google Cloud Platform), by CodingGirlsSG --
+Certification for Google Cloud Associate Cloud Engineer (includes networking, Docker, Kubernetes) - Oct.-Nov.2020 
+- [Techladies bootcamp #4](http://www.techladies.co/techladies-bootcamp-4) (Javascript Edition), by TechLadies & ThoughtWorks mentors --  Full stack web application development using MongoDB, Express, React, Node (MERN) stack - Sep.2018-Feb.2019 
+
+
 ## Tech stack 🦋
 
 - Automation, data visualization, data science (intermediate): R, Python, Excel VBA, ArcGIS, QGIS, Tableau 
 - Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github
 -	DevOps and cloud tools (basic): Linux shell scripting, Docker/ Kubernetes, Google Cloud Platform, ClearDB, Heroku 
-
 
 ## Publications 🐝
 
