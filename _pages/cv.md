@@ -44,13 +44,11 @@ Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), wh
 Certification for Google Cloud Associate Cloud Engineer (includes networking, Docker, Kubernetes) - Oct.-Nov.2020 
 - [Techladies bootcamp #4](http://www.techladies.co/techladies-bootcamp-4) (Javascript Edition), by TechLadies & ThoughtWorks mentors --  Full stack web application development using MongoDB, Express, React, Node (MERN) stack - Sep.2018-Feb.2019 
 
-
 ## Tech stack 🦋
 
 - Automation, data visualization, data science (intermediate): R, Python, VBA Excel, ArcGIS, QGIS, Tableau 
 - Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github 
 - DevOps on the cloud (basic): Linux shell, Google Cloud Platform, Docker, Kubernetes, Heroku
-
 
 ## Publications 🐝
 
