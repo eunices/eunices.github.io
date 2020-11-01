@@ -76,9 +76,9 @@ All research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_
 
 I am completing my thesis in Jul 2021 and am looking for employment opportunities from Aug 2021, including (but not limited to)
 
-1. **Administrative positions**
-2. **Internship/ contract position** in the tech industry to gain hands-on/ practical experience. Preferably web development (backend or full stack), data engineering or dev ops. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
-3. **Policy/ data analyst**. Preferably in government, healthcare or non-profit setting.
+1. **Internship/ contract position** in the tech industry to gain hands-on/ practical experience. Preferably web development (backend or full stack), data engineering or dev ops. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
+2. **Policy/ data analyst**. Preferably in government, healthcare or non-profit setting.
+3. **Administrative positions** Including positions as assistant librarian.
 4. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
 - artificial intelligence (computer vision for species identification),
 - statistical modelling (food security, eco-epidemiology), 
