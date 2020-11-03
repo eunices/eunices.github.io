@@ -30,8 +30,6 @@ Tech portfolio: [here](portfolio/portfolio-1/)
 - Data administrator, A*STAR SICS - Jul.2016-Jun.2017
 - Researcher, NEA EHI - Apr.2015-Jul.2016 
 
-Please connect with me on [LinkedIn](https://www.linkedin.com/in/eunicesoh/), where  details on my work experience as well as courses/certifications are available. An alternative profile can be found on [NUS TalentConnect](https://nus-csm.symplicity.com/profiles/eunicesoh).
-
 ## Education 💯
 
 - MSc (Research), NUS - ongoing
