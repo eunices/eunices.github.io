@@ -47,7 +47,7 @@ Certification for Google Cloud Associate Cloud Engineer (includes networking, Do
 
 ## Tech certification 💻
 
-- [Google Cloud's Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) (ACE) - Nov.2020 [certificate](https://www.credential.net/6dd8ebe9-2d51-4007-96f6-070c26371828?key=29b02e03d40a9efc37103bc35ee947e4bf22287a77862a3586c3a4081aa7e4ea)
+- [Google Cloud's Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) (ACE) - Nov.2020 [certificate](https://www.credential.net/6dd8ebe9-2d51-4007-96f6-070c26371828)
 - [AI Singapore's AI Certified Engineer Associate](https://www.aisingapore.org/ai-certification/) (AICE) - Jun.2020 [certificate](https://certified.aisingapore.org/aac1f3b4-7ece-4369-bd5a-571fa68efe81)
 
 ## Tech stack 🦋
