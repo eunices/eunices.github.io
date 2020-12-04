@@ -87,8 +87,8 @@ I am completing my thesis in Jul 2021 and am looking for employment opportunitie
 
 1. **Internship/ contract position in the tech industry** to gain hands-on/ practical experience. Preferably web development (backend or full stack), data engineering or dev ops. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
 2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
-3. **Assistant librarian** Preferably in an university/ academic library.
-4. **Research assistant** in environmental biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
+3. **Assistant librarian**. Preferably in an university/ academic library.
+4. **Research assistant** in biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
 - artificial intelligence (computer vision for species identification),
 - statistical modelling (food security, eco-epidemiology), 
 - remote sensing (Lidar for vegetation, landuse classification), 
