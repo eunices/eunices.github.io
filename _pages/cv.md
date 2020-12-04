@@ -13,7 +13,7 @@ redirect_from:
 
 Hello! Currently, I am a full-time Masters by research student at NUS. 
 
-I am a keen learner and goal-oriented worker with prior experience as a junior machine learning engineer/ data analyst across various public agencies in the healthcare, epidemiology, ecology sectors. Upon graduation (Aug 2021), I am looking to transit into a tech/admin role, or to build on existing experience as a data analyst or researcher. 
+I am a keen learner and goal-oriented worker with prior experience as a junior machine learning engineer/ data analyst across various public agencies in the healthcare, epidemiology, ecology sectors. Upon graduation (Aug 2021), I am looking to transit into a tech/admin role, or to build on existing experience as a data analyst or researcher. I've been getting my feet wet in software development through bootcamps and part-time courses. 
 
 I'm open to (though not limited to) these [employment opportunities](#opportunities-). Please connect with me on [LinkedIn](https://linkedin.com/in/eunicesoh) or contact me via email if my profile looks interesting to you!
 
