@@ -39,16 +39,16 @@ Tech portfolio: [here](portfolio/portfolio-1/)
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
 - BSc, Hons (Life Sciences), NUS - Feb.2015 
 
+## Tech certification 💻
+
+- [Google Cloud's Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) (ACE) - Nov.2020 [certificate](https://www.credential.net/6dd8ebe9-2d51-4007-96f6-070c26371828)
+- [AI Singapore's AI Certified Engineer Associate](https://www.aisingapore.org/ai-certification/) (AICE) - Jun.2020 [certificate](https://certified.aisingapore.org/aac1f3b4-7ece-4369-bd5a-571fa68efe81)
+
 ## Tech bootcamps 💪
 
 - [Code with Cloud bootcamp](https://cloud.codinggirls.sg/) (Google Cloud Platform), by CodingGirlsSG --
 Certification for Google Cloud Associate Cloud Engineer (includes networking, Docker, Kubernetes) - Oct.-Nov.2020 
 - [Techladies bootcamp #4](http://www.techladies.co/techladies-bootcamp-4) (Javascript Edition), by TechLadies & ThoughtWorks mentors --  Full stack web application development for production using MongoDB, Express, React, Node (MERN) stack - Sep.2018-Feb.2019 
-
-## Tech certification 💻
-
-- [Google Cloud's Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) (ACE) - Nov.2020 [certificate](https://www.credential.net/6dd8ebe9-2d51-4007-96f6-070c26371828)
-- [AI Singapore's AI Certified Engineer Associate](https://www.aisingapore.org/ai-certification/) (AICE) - Jun.2020 [certificate](https://certified.aisingapore.org/aac1f3b4-7ece-4369-bd5a-571fa68efe81)
 
 ## Tech stack 🦋
 
