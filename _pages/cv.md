@@ -13,7 +13,7 @@ redirect_from:
 
 Hello! Currently, I am a full-time masters by research student at NUS. 
 
-Upon graduation (Aug 2021), I am looking to transit into a tech/admin role, or to build on existing experience as a data analyst or researcher.
+Upon graduation (Aug 2021), I am looking to transit into a tech/library role, or to build on existing experience as a data analyst or researcher.
 
 I am a keen learner and goal-oriented worker with prior experience as a junior machine learning engineer/ data analyst across various public agencies in the healthcare, epidemiology, ecology sectors. I've been getting my feet wet in software development through bootcamps and part-time courses. 
 
