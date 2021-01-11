@@ -1,10 +1,12 @@
 ---
-title: "Learning"
-permalink: /learning/
+title: "Learning & Fun"
+permalink: /learning-fun/
 author_profile: true
 ---
 
 {% include base_path %}
+
+# Learning
 
 ## Short classes
 - (2020) vISEC2020 - "Level-up your R package" short course
@@ -48,6 +50,8 @@ author_profile: true
 - [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
 - [Code katas](https://www.codewars.com/users/eunix), to practise coding
 - [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses (TODO: link seems to be defunct, will check with Udemy)
+
+# Fun
 
 ## Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
