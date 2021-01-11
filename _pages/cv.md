@@ -21,7 +21,7 @@ I'm open to (though not limited to) these [employment opportunities](#opportunit
 
 ## Portfolio 🐜
 
-Tech portfolio: [here](portfolio/portfolio-1/) | Visualisation portfolio: [here](portfolio/portfolio-2/) | Research portfolio: [here](portfolio/portfolio-3/)
+Tech portfolio: [here](portfolio/portfolio-1/) /  Visualisation portfolio: [here](portfolio/portfolio-2/) / Research portfolio: [here](portfolio/portfolio-3/)
 
 ## Work experience 🦟
 
