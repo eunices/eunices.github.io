@@ -1,6 +1,6 @@
 ---
-title: "Others"
-permalink: /others/
+title: "Learning"
+permalink: /learning/
 author_profile: true
 ---
 
