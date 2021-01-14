@@ -11,9 +11,7 @@ redirect_from:
 
 ## Eunice J.Y. Soh
 
-Hello! Currently, I am a full-time masters by research student at NUS. 
-
-Upon graduation (Aug 2021), I am looking to transit into a tech/library role, or to build on existing experience as a data analyst or researcher.
+Hello! Currently, I am a full-time masters by research student at NUS. Upon graduation (*Aug 2021*), I am looking to transit into a tech/library role, or to build on existing experience as a data analyst or researcher.
 
 I am a keen learner and goal-oriented worker with prior experience across various public agencies in the healthcare, epidemiology, ecology sectors, and as a junior machine learning engineer/ data analyst. I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. 
 
