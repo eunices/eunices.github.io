@@ -15,7 +15,7 @@ Hello! Currently, I am a full-time masters by research student at NUS.
 
 Upon graduation (Aug 2021), I am looking to transit into a tech/library role, or to build on existing experience as a data analyst or researcher.
 
-I am a keen learner and goal-oriented worker with prior experience as a junior machine learning engineer/ data analyst across various public agencies in the healthcare, epidemiology, ecology sectors. I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. 
+I am a keen learner and goal-oriented worker with prior experience cross various public agencies in the healthcare, epidemiology, ecology sectors, and as a junior machine learning engineer/ data analyst. I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. 
 
 I'm open to (though not limited to) these [employment opportunities](#opportunities-). Please connect with me on [LinkedIn](https://linkedin.com/in/eunicesoh) or contact me via email if my profile looks interesting to you!
 
