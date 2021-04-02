@@ -11,9 +11,9 @@ redirect_from:
 
 ## Eunice J.Y. Soh
 
-I am looking for employment opportunities upon graduation from masters of research at NUS (*Aug 2021*). I am looking to transit into a tech/library role, or to build on existing experience as a data analyst or researcher. I'm open to (though not limited to) these [employment opportunities](#opportunities-). Please connect with me on [LinkedIn](https://linkedin.com/in/eunicesoh) or contact me via email if my profile looks interesting to you!
-
 I am a keen learner and goal-oriented worker with prior experience across various public agencies in the healthcare, epidemiology, ecology sectors, and as a junior machine learning engineer/ data analyst. I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. 
+
+Please connect with me on [LinkedIn](https://linkedin.com/in/eunicesoh) or contact me via email if my profile looks interesting to you!
 
 
 ## Portfolio 🐜
@@ -71,26 +71,3 @@ Certification for Google Cloud Associate Cloud Engineer (includes networking, Do
 - **Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [link](https://www.researchgate.net/publication/337077776_Diversity_of_plants_with_leaves_cut_by_bees_of_the_genus_Megachile_in_Singapore)
 
 All research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) / [Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ).
-
-## Academic conferences 🐛
-
-- Biodiversity Research Symposium (2014) by National Parks Board
-- First Insect-spider Annual Symposium (2014) by Department of Biological Sciences (NUS)
-
-## Opportunities 🐞
-
-I am completing my thesis in Jul 2021 and am looking for employment opportunities from Aug 2021, including (but not limited to)
-
-1. **Internship/ contract position in the tech industry** to gain hands-on/ practical experience. Preferably web development (backend or full stack), data engineering or dev ops. It would be great if there is a mentor available to guide or if full time employment is possible upon completion of internship.
-2. **Data analyst**. Preferably in government, healthcare or non-profit setting.
-3. **Assistant librarian**. Preferably in an university/ academic library.
-4. **Research assistant** in biology/epidemiology where I hope to pick up one or more of the skills in these areas: 
-- artificial intelligence (computer vision for species identification),
-- statistical modelling (food security, eco-epidemiology), 
-- remote sensing (Lidar for vegetation, landuse classification), 
-- plant identification, 
-- mathematical modelling (epidemiology) and/or
-- molecular biology (next-generation sequencing for population genomics).
-
-If I am a good fit/ if you wish to view my full resume, you may contact me at [eunice.sjy(at)gmail.com](mailto:eunice.sjy@gmail.com).
-
