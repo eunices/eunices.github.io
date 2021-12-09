@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Eunice J.Y. Soh"
 title_separator          : "-"
 name                     : &name "Eunice J. Y. Soh"
-description              : &description "NUS student"
+description              : &description "Hi!"
 url                      : https://eunices.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eunices/eunices.github.io"
@@ -74,9 +74,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-64096607-2"
+    tracking_id          : # "UA-64096607-2"
 
 
 # Site Author
@@ -89,7 +89,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            :
-  researchgate     :  "http://www.researchgate.net/profile/Eunice_Soh2"
+  researchgate     :  # "http://www.researchgate.net/profile/Eunice_Soh2"
   uri              :
   bitbucket        :
   codepen          :
