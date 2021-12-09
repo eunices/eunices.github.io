@@ -29,7 +29,7 @@ I've been getting my feet wet in software development/ devops through bootcamps 
 - MSc (Research), NUS ● Nov 2021
 - SDip (Big Data & Streaming Analytics), SP PACE ● Oct 2021
 - SDip (Mobile Application Development), SP PACE ● Feb 2020
-- AI apprentice, NUS SCALE - Jan 2019 
+- AI apprentice, NUS SCALE ● Jan 2019 
 - GDip (Applied Statistics), U.Sheffield ● Jun 2018
 - BSc, Hons (Life Sciences), NUS ● Feb 2015 
 
