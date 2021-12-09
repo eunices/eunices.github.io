@@ -1,8 +1,7 @@
 # main links links
 main:
-  - title: "portfolio"
-    url: /portfolio/
-
   - title: "etc"
     url: /etc/
+  - title: "portfolio"
+    url: /portfolio/
         
