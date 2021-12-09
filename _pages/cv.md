@@ -57,7 +57,7 @@ Developing full stack web application development for production using MongoDB, 
 
 **International publications**
 
-- Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513 [minor collaborator]. [DOI: 10.1126/sciadv.1600513](https://doi.org/10.1126/sciadv.1600513)
+- Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513. [DOI: 10.1126/sciadv.1600513](https://doi.org/10.1126/sciadv.1600513)
 
 **Local publications**
 
