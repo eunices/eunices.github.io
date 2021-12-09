@@ -6,9 +6,9 @@ author_profile: false
 
 {% include base_path %}
 
-# Learning stuff
+## Learning stuff
 
-## Short classes
+### Short classes
 - (2020) vISEC2020 - "Level-up your R package" short course
 - (2020) Republic Polytechnic - Agriculture Technology
 - (2019) SkillsFuture@PA - Unisex Hair Cutting Course Module 2
@@ -23,7 +23,7 @@ author_profile: false
 - (2016) ATBC - Advanced Linear Modelling
 - (2012) California Academy of Sciences - Ant Course at Mackere Research Station, Uganda
 
-## Online courses
+### Online courses
 - (Aug.2019) Udacity - AWS Fundamental course in the AWS Machine Learning Scholarship
 - (Jan.2019) Udacity - Intro to Deep Learning with PyTorch
 - (Oct.2020) Coursera - Cloud Engineering with Google Cloud Specialization Certificate (5 courses) for Associate Cloud Engineer [FWAA3HXSEMUE](https://www.coursera.org/account/accomplishments/professional-cert/FWAA3HXSEMUE)
@@ -41,7 +41,7 @@ author_profile: false
 - (May.2015) Coursera - R Programming [6478L79K52](https://www.coursera.org/account/accomplishments/verify/6478L79K52)
 - (May.2015) Coursera - The Data Scientist’s Toolbox [7ZJ649EKWJ](https://www.coursera.org/account/accomplishments/verify/7ZJ649EKWJ)
 
-## Coding
+### Coding
 - [Github](https://www.github.com/eunices), where my code is posted
 - [Codecademy](https://www.codecademy.com/profiles/ejysoh), where I pick up basics of programming languages
 - [Qwiklabs1](https://www.qwiklabs.com/public_profiles/aaa6e903-6b10-4c05-969e-881c6fad0b92), where I learn cloud tech stuff
@@ -51,18 +51,18 @@ author_profile: false
 - [Code katas](https://www.codewars.com/users/eunix), to practise coding
 - [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses (TODO: link seems to be defunct, will check with Udemy)
 
-# Legacy stuff
+## Legacy stuff
 
-## Blogs
+### Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
 - [e.j.y.soh](https://medium.com/@e.j.y.soh), my science & coding blog (not yet updated)
 
-## Photography and videography
+### Photography and videography
 - [Flickr](https://www.flickr.com/photos/ejysoh/albums), for photos
 - [Vimeo](https://vimeo.com/ejysoh), for videos
 
-## Design
+### Design
 - [carbonmade](http://eunice.carbonmade.com), for collateral, map design
 
-## Travels 
-<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="300px"></iframe>
+### Travels 
+<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="400px"></iframe>
