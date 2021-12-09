@@ -27,8 +27,8 @@ Happy to chat if there are any remote opportunities for work.
 ## Education 💯
 
 - MSc (Research), NUS - Nov.2021
-- SDip (Big Data & Streaming Analytics), S'pore Poly PACE - Oct.2021
-- SDip (Mobile Application Development), S'pore Poly PACE - Feb.2020
+- SDip (Big Data & Streaming Analytics), SP PACE - Oct.2021
+- SDip (Mobile Application Development), SP PACE - Feb.2020
 - AI apprentice, NUS SCALE - Jan.2019 
 - GDip (Applied Statistics), U. Sheffield - Jun.2018
 - BSc, Hons (Life Sciences), NUS - Feb.2015 
