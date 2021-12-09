@@ -13,7 +13,7 @@ redirect_from:
 
 I am a keen learner and goal-oriented worker with prior experience across varied public and education agencies in the healthcare, epidemiology, ecology sectors, and jobs as a junior machine learning engineer/ data analyst. 
 
-I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. Happy to chat if there are any remote opportunities for work.
+I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. Happy to chat if there are any remote opportunities.
 
 ## Work experience 🦟
 
