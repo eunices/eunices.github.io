@@ -54,11 +54,6 @@ Developing full stack web application development for production using MongoDB, 
 - Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github 
 - DevOps on the cloud (basic): Linux shell, Google Cloud Platform, Docker, Kubernetes, Heroku
 
-## Portfolio 🐜
-
-Tech portfolio: [here](portfolio/portfolio-1/) ●  Visualisation portfolio: [here](portfolio/portfolio-2/) ● Research portfolio: [here](portfolio/portfolio-3/)
-
-
 ## Academic publications 🐝
 
 **International publications**
