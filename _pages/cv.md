@@ -40,9 +40,9 @@ I've been getting my feet wet in software development/ devops through bootcamps 
 
 ## Tech bootcamps 💪
 
-- [Code with Cloud bootcamp](https://cloud.codinggirls.sg/), by CodingGirlsSG --
+- [Code with Cloud bootcamp](https://cloud.codinggirls.sg/) by CodingGirlsSG --
 Certification for Google Cloud Associate Cloud Engineer  ● Oct-Nov 2020 
-- [Techladies bootcamp #4 (Javascript Edition)](https://www.youtube.com/watch?v=nXAMaTO-uSw), by TechLadies & ThoughtWorks mentors -- Developing full stack web application development for production using MongoDB, Express, React, Node (MERN) stack ● Sep 2018-Feb 2019 
+- [Techladies bootcamp #4 (Javascript Edition)](https://www.youtube.com/watch?v=nXAMaTO-uSw) by TechLadies & ThoughtWorks mentors -- Developing full stack web application development for production using MongoDB, Express, React, Node (MERN) stack ● Sep 2018-Feb 2019 
 
 ## Tech stack 🦋
 
