@@ -54,7 +54,6 @@ Certification for Google Cloud Associate Cloud Engineer  ● Oct-Nov 2020
 
 Tech portfolio: [here](portfolio/portfolio-1/) ●  Visualisation portfolio: [here](portfolio/portfolio-2/) ● Research portfolio: [here](portfolio/portfolio-3/)
 
---
 
 ## Academic publications 🐝
 
