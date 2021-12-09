@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Eunice Soh"
 permalink: /
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Eunice J.Y. Soh
 
 I am a keen learner and goal-oriented worker with prior experience across varied public and education agencies in the healthcare, epidemiology, ecology sectors, and jobs as a junior machine learning engineer/ data analyst. 
 
