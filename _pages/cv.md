@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-I am a keen learner and goal-oriented worker with prior experience across varied public and education agencies in the healthcare, epidemiology, ecology sectors, and jobs as a junior machine learning engineer/ data analyst. 
-
-I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. Happy to chat if there are any remote/ hybrid opportunities.
-
 ## Work experience 🦟
 
 - Data repository librarian, NTU Library ● Aug 2021-Present
