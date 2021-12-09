@@ -13,12 +13,7 @@ redirect_from:
 
 I am a keen learner and goal-oriented worker with prior experience across various public agencies in the healthcare, epidemiology, ecology sectors, and as a junior machine learning engineer/ data analyst. I've been getting my feet wet in software development/ devops through bootcamps and part-time courses. 
 
-Please connect with me on [LinkedIn](https://linkedin.com/in/eunicesoh) or contact me via email if my profile looks interesting to you!
-
-
-## Portfolio 🐜
-
-Tech portfolio: [here](portfolio/portfolio-1/) /  Visualisation portfolio: [here](portfolio/portfolio-2/) / Research portfolio: [here](portfolio/portfolio-3/)
+Happy to chat if there are any remote opportunities for work.
 
 ## Work experience 🦟
 
@@ -55,6 +50,10 @@ Certification for Google Cloud Associate Cloud Engineer (includes networking, Do
 - Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github 
 - DevOps on the cloud (basic): Linux shell, Google Cloud Platform, Docker, Kubernetes, Heroku
 
+## Portfolio 🐜
+
+Tech portfolio: [here](portfolio/portfolio-1/) /  Visualisation portfolio: [here](portfolio/portfolio-2/) / Research portfolio: [here](portfolio/portfolio-3/)
+
 ## Academic publications 🐝
 
 **International publications**
@@ -63,6 +62,7 @@ Certification for Google Cloud Associate Cloud Engineer (includes networking, Do
 
 **Local publications**
 
+- Ascher JS, Soh ZWW, Chui SX, Soh EJY, Ho BM, Lee JXQ, Gajanur AR, Ong XR (in press). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology.
 - Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. [link](https://www.researchgate.net/publication/303189173_Megachile_leaf-cutter_and_resin_bees_of_Singapore_Hymenoptera_Apoidea_Megachilidae)
 
 **Peer-reviewed, non-indexed journals**
