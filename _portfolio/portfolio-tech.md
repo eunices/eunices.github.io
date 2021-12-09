@@ -9,7 +9,7 @@ collection: portfolio
 
 I was part of the Techladies bootcamp, to create a live web application for Singapore Sustanability Network to aggregate environmental NGOs in Singapore. See our project demo [here](https://www.facebook.com/ssnsingapore/videos/293450054683330/). Ours was a fullstack project using MERN (MongoDB, Express, React.js, NodeJS) and Material UI, and deployed using Heroku/github.
 
-I learnt how to write code from web services to frontend which utilised the former. Also learnt unit testing and heroku pipeline for continuous delivery.
+I learnt how to write code from web services to frontend which utilised the former. Also learnt unit testing and Heroku pipeline for continuous delivery.
 
 - [Github repository](https://github.com/ssnsingapore/ssn-app)
 
@@ -57,5 +57,3 @@ A site for a wedding invitation with a map and RSVP form, based off another repo
 
 ![Wedding RSVP](/images/portfolio1-wedding.png)
 
-
-Last updated 26 Sep 2020

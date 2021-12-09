@@ -4,11 +4,11 @@ excerpt: "Documenting my research journey."
 collection: portfolio
 ---
 
-In general, these are the skills I've picked up during my time doing research. See [my ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) for more publication/ report outputs.
-
 While doing my undergraduate studies, research included 1) mapping and analyses using Geographical Information Systems [GIS], 2) community ecology and generic identification of ants in Asia, 3) natural history and species identification of *Megachile* in Singapore ([see below](#undergraduate-research)).
 
-For masters, I focus mainly on cleaning complex data and analysing data using statistical methods ([see below](#masters-research)) and am supervised by Assoc Prof Roman Carrasco (main supervisor) and Asst Prof John Ascher. I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
+For masters by research, I focus mainly on data mining of bee taxonomic literature ([see below](#masters-research)) to quantify species description, taxonomic effort and expertise, and was supervised by Assoc Prof Roman Carrasco (main supervisor) and Asst Prof John Ascher. I also did coursework on Theoretical Biology (by Assoc Prof Ryan Chisholm and Assoc Prof Timothy Saunders) as well as Population Genomics and Phylogenomics (by Assoc Prof Frank Rheindt), while auditing a course on Linear Algebra by the Department of Mathematics. 
+
+Not actively pursuing research at the moment but happy to chat if there are suitable postgrad opportunities.
 
 ## Undergraduate research
 
@@ -37,17 +37,14 @@ For masters, I focus mainly on cleaning complex data and analysing data using st
 
 ## Masters research
 
-### Data analysis skills
+### Trends in bee descriptions (data mining skills)
 
 - Network analysis applied to
   - Modularity in coauthorship networks across countries
   - Specialist/ generalist relationships, guilds in bee-pollinator networks
-
 
 - Utilising and modifying code from existing papers
   - Fitting density-dependent curves, to estimate year of gender parity for bee describers ([Holman et al. 2018](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956))
   - Bayesian analyses with stan, to predict number of bee species to be described ([Edie et al. 2017](https://www.pnas.org/content/114/14/3666))
 
 - Flows of resources from one country to another using GLM/ logistic regression
-
-Last updated 1 Oct 2020

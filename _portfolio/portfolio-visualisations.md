@@ -1,6 +1,6 @@
 ---
-title: "Visualisations"
-excerpt: "Visualisation projects with R Shiny."
+title: "Visualisation projects"
+excerpt: "A picture is worth a thousand words."
 collection: portfolio
 ---
 
@@ -23,6 +23,3 @@ To test out shiny dashboards, I created this: Monte Carlo sampling to estimate t
 
 ![Monte Carlo Circle](/images/portfolio2-monte.png)
 
-
-Last updated 8 Jun 2020
-    
