@@ -50,7 +50,7 @@ Developing full stack web application development for production using MongoDB, 
 ## Tech stack 🦋
 
 - Automation, data visualization, data science (intermediate): R, Python, VBA Excel, ArcGIS, QGIS, Tableau 
-- Software development (basic to intermediate): HTML/CSS, Javascript (React, Express, d3.js, jQuery), Java (Android Studio, Eclipse), git/github 
+- Software development (basic): HTML/CSS, Javascript (nodejs for React, Express), Java (Android Studio, Netbeans for Jarkata EE), git/github 
 - DevOps on the cloud (basic): Linux shell, Google Cloud Platform, Docker, Kubernetes, Heroku
 
 ## Academic publications 🐝
