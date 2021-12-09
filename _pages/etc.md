@@ -1,5 +1,5 @@
 ---
-title: "Etc"
+title: "etc"
 permalink: /etc/
 author_profile: false
 ---
