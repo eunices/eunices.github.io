@@ -2,6 +2,7 @@
 title: "Visualisation projects"
 excerpt: "A picture is worth a thousand words."
 collection: portfolio
+author_profile: false
 ---
 
 This features small & side visualisation projects, typically hosted on R Shiny server (which means it serves the info. live):

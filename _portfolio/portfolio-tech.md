@@ -2,6 +2,7 @@
 title: "Tech projects"
 excerpt: "A collection of tech projects."
 collection: portfolio
+author_profile: false
 ---
 ## A collection of tech projects
 

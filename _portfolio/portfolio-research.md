@@ -2,6 +2,7 @@
 title: "Research projects"
 excerpt: "Documenting my research journey."
 collection: portfolio
+author_profile: false
 ---
 
 While doing my undergraduate studies, research included 1) mapping and analyses using Geographical Information Systems [GIS], 2) community ecology and generic identification of ants in Asia, 3) natural history and species identification of *Megachile* in Singapore ([see below](#undergraduate-research)).

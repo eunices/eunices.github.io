@@ -1,7 +1,7 @@
 ---
 title: "etc"
 permalink: /etc/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
