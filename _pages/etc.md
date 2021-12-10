@@ -6,7 +6,7 @@ author_profile: false
 
 {% include base_path %}
 
-## Learning stuff
+## Learning
 
 ### Short classes
 - (2020) vISEC2020 - "Level-up your R package" short course
@@ -41,17 +41,7 @@ author_profile: false
 - (May 2015) Coursera - R Programming [6478L79K52](https://www.coursera.org/account/accomplishments/verify/6478L79K52)
 - (May 2015) Coursera - The Data Scientist’s Toolbox [7ZJ649EKWJ](https://www.coursera.org/account/accomplishments/verify/7ZJ649EKWJ)
 
-### Coding
-- [Github](https://www.github.com/eunices), where my code is posted
-- [Codecademy](https://www.codecademy.com/profiles/ejysoh), where I pick up basics of programming languages
-- [Qwiklabs1](https://www.qwiklabs.com/public_profiles/aaa6e903-6b10-4c05-969e-881c6fad0b92), where I learn cloud tech stuff
-- [Qwiklabs2](https://www.qwiklabs.com/public_profiles/9b208ce2-6896-4a6d-89d2-f04235be3e22), same as preceding but a newer account
-- [Datacamp1]( https://www.datacamp.com/profile/eunicesjy), where I learn data-related stuff
-- [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
-- [Code katas](https://www.codewars.com/users/eunix), to practise coding
-- [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses (TODO: link seems to be defunct, will check with Udemy)
-
-## Legacy stuff
+## Profiles
 
 ### Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
@@ -66,3 +56,13 @@ author_profile: false
 
 ### Travels 
 <iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="400px"></iframe>
+
+### Coding
+- [Github](https://www.github.com/eunices), where my code is posted
+- [Codecademy](https://www.codecademy.com/profiles/ejysoh), where I pick up basics of programming languages
+- [Qwiklabs1](https://www.qwiklabs.com/public_profiles/aaa6e903-6b10-4c05-969e-881c6fad0b92), where I learn cloud tech stuff
+- [Qwiklabs2](https://www.qwiklabs.com/public_profiles/9b208ce2-6896-4a6d-89d2-f04235be3e22), same as preceding but a newer account
+- [Datacamp1]( https://www.datacamp.com/profile/eunicesjy), where I learn data-related stuff
+- [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
+- [Code katas](https://www.codewars.com/users/eunix), to practise coding
+- [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses (TODO: link seems to be defunct, will check with Udemy)
