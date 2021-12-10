@@ -45,7 +45,6 @@ author_profile: false
 
 ### Blogs
 - [Never Wild Enough](https://neverwildenough.blogspot.sg), my travel/ natural history blog
-- [e.j.y.soh](https://medium.com/@e.j.y.soh), my science & coding blog (not yet updated)
 
 ### Photography and videography
 - [Flickr](https://www.flickr.com/photos/ejysoh/albums), for photos
