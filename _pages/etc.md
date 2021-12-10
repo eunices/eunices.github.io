@@ -24,22 +24,22 @@ author_profile: false
 - (2012) California Academy of Sciences - Ant Course at Mackere Research Station, Uganda
 
 ### Online courses
-- (Aug.2019) Udacity - AWS Fundamental course in the AWS Machine Learning Scholarship
-- (Jan.2019) Udacity - Intro to Deep Learning with PyTorch
-- (Oct.2020) Coursera - Cloud Engineering with Google Cloud Specialization Certificate (5 courses) for Associate Cloud Engineer [FWAA3HXSEMUE](https://www.coursera.org/account/accomplishments/professional-cert/FWAA3HXSEMUE)
-- (Apr.2017) DataCamp - Data Analysis in R, the data.table Way Course [2811586](https://www.datacamp.com/statement-of-accomplishment/course/481a8a6d60a321925b6523348a40026e858a7735)
-- (Apr.2017) DataCamp - Object-Oriented Programming in R: S3 and R6
-- (Mar.2017) DataCamp - Writing Functions in R [2714109](https://www.datacamp.com/statement-of-accomplishment/course/91f3cbac5ea0e642abe6b63d1772159362cb2820)
-- (Dec.2016) Udemy - Best Practices in Document Management [UC-IAWC2L00](https://www.udemy.com/certificate/UC-IAWC2L00/)
-- (Dec.2016) Udemy - Build Responsive Real World Websites with HTML5 and CSS3 [UC-722A69FD](https://www.udemy.com/certificate/UC-722A69FD/)
-- (Dec.2016) Udemy - Git Complete: The definitive, step-by-step guide [UC-V0EXY7PK](https://www.udemy.com/certificate/UC-V0EXY7PK/)
-- (Dec.2016) Udemy - The Complete SQL Bootcamp [UC-25GFPF3I](https://www.udemy.com/certificate/UC-25GFPF3I/)
-- (Nov.2016) Coursera - Good Clinical Practice (GCP) [UC-3WAU3XGY](https://www.udemy.com/certificate/UC-3WAU3XGY/)
-- (Jun.2015) Coursera - Exploratory Data Analysis [45UTBQ7DP5](https://www.coursera.org/account/accomplishments/verify/45UTBQ7DP5)
-- (Jun.2015) Coursera - Getting and Cleaning Data [G6NKZUB4YH](https://www.coursera.org/account/accomplishments/verify/G6NKZUB4YH)
-- (Jun.2015) Coursera - Reproducible Research [VMAKUBXHTY](https://www.coursera.org/account/accomplishments/verify/VMAKUBXHTY)
-- (May.2015) Coursera - R Programming [6478L79K52](https://www.coursera.org/account/accomplishments/verify/6478L79K52)
-- (May.2015) Coursera - The Data Scientist’s Toolbox [7ZJ649EKWJ](https://www.coursera.org/account/accomplishments/verify/7ZJ649EKWJ)
+- (Aug 2019) Udacity - AWS Fundamental course in the AWS Machine Learning Scholarship
+- (Jan 2019) Udacity - Intro to Deep Learning with PyTorch
+- (Oct 2020) Coursera - Cloud Engineering with Google Cloud Specialization Certificate (5 courses) for Associate Cloud Engineer [FWAA3HXSEMUE](https://www.coursera.org/account/accomplishments/professional-cert/FWAA3HXSEMUE)
+- (Apr 2017) DataCamp - Data Analysis in R, the data.table Way Course [2811586](https://www.datacamp.com/statement-of-accomplishment/course/481a8a6d60a321925b6523348a40026e858a7735)
+- (Apr 2017) DataCamp - Object-Oriented Programming in R: S3 and R6
+- (Mar 2017) DataCamp - Writing Functions in R [2714109](https://www.datacamp.com/statement-of-accomplishment/course/91f3cbac5ea0e642abe6b63d1772159362cb2820)
+- (Dec 2016) Udemy - Best Practices in Document Management [UC-IAWC2L00](https://www.udemy.com/certificate/UC-IAWC2L00/)
+- (Dec 2016) Udemy - Build Responsive Real World Websites with HTML5 and CSS3 [UC-722A69FD](https://www.udemy.com/certificate/UC-722A69FD/)
+- (Dec 2016) Udemy - Git Complete: The definitive, step-by-step guide [UC-V0EXY7PK](https://www.udemy.com/certificate/UC-V0EXY7PK/)
+- (Dec 2016) Udemy - The Complete SQL Bootcamp [UC-25GFPF3I](https://www.udemy.com/certificate/UC-25GFPF3I/)
+- (Nov 2016) Coursera - Good Clinical Practice (GCP) [UC-3WAU3XGY](https://www.udemy.com/certificate/UC-3WAU3XGY/)
+- (Jun 2015) Coursera - Exploratory Data Analysis [45UTBQ7DP5](https://www.coursera.org/account/accomplishments/verify/45UTBQ7DP5)
+- (Jun 2015) Coursera - Getting and Cleaning Data [G6NKZUB4YH](https://www.coursera.org/account/accomplishments/verify/G6NKZUB4YH)
+- (Jun 2015) Coursera - Reproducible Research [VMAKUBXHTY](https://www.coursera.org/account/accomplishments/verify/VMAKUBXHTY)
+- (May 2015) Coursera - R Programming [6478L79K52](https://www.coursera.org/account/accomplishments/verify/6478L79K52)
+- (May 2015) Coursera - The Data Scientist’s Toolbox [7ZJ649EKWJ](https://www.coursera.org/account/accomplishments/verify/7ZJ649EKWJ)
 
 ### Coding
 - [Github](https://www.github.com/eunices), where my code is posted
