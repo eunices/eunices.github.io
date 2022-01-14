@@ -56,7 +56,7 @@ Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA 
 
 **Local publications**
 
-Ascher JS, Soh ZWW, Chui SX, **Soh EJY**, Ho BM, Lee JXQ, Gajanur AR, Ong XR (in press). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology.
+Ascher JS, Soh ZWW, Chui SX, **Soh EJY**, Ho BM, Lee JXQ, Gajanur AR, Ong XR (2022). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology, 70: 39-64. [DOI: 10.26107/RBZ-2022-0004](https://doi.org/10.26107/RBZ-2022-0004)
 
 Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. [link](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/06/S32rbz033-055.pdf)
 
