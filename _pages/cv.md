@@ -62,11 +62,12 @@ Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutte
 
 **Peer-reviewed, non-indexed journals**
 
-**Soh EJY**, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62. [link](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/04/2016nis049-062.pdf)
+**Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [DOI: 10.26107/NIS-2019-0007](https://doi.org/10.26107/NIS-2019-0007)
 
 Yong GWJ, Wong MKL, **Soh EJY** (2017). Surprising offshore diversity: A preliminary checklist for the ant genera of Pulau Ubin island from rapid opportunistic sampling (Hymenoptera: Formicidae). Nature in Singapore, 10, 55–66. [link](https://lkcnhm.nus.edu.sg/app/uploads/2017/09/2017nis055-066.pdf)
 
-**Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [DOI: 10.26107/NIS-2019-0007](https://doi.org/10.26107/NIS-2019-0007)
+**Soh EJY**, Soh ZWW, Chui SX, Ascher JS (2016). The Anthidiini of Singapore. Nature in Singapore, 9, 49–62. [link](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/04/2016nis049-062.pdf)
 
 
-All research work on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) & [Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ).
+
+Research work including theses abstracts on [ResearchGate](https://www.researchgate.net/profile/Eunice_Soh2/research) & subset indexed by [Google Scholar](https://scholar.google.com/citations?user=8tnjlIUAAAAJ).
