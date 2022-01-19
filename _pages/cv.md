@@ -62,7 +62,7 @@ Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutte
 
 **Peer-reviewed, non-indexed journals**
 
-Ascher JS, Soh ZW, Ho BM, Lee RY, Leong AQ, Chui SX, Lai JJ, Lee JX, Foo MS, **Soh EJY** (2019). Bees of the Bukit Timah Nature Reserve and vicinity. Gardens Bulletin of Singapore, 71 (Supplement 1): 245-271. [link](https://www.nparks.gov.sg/sbg/research/publications/gardens-bulletin-singapore/-/media/sbg/gardens-bulletin/gbs_71_s1_y2019_v71_s1/71_s1_08_y2019_v71s1_gbs_pg245.pdf)
+Ascher JS, Soh ZW, Ho BM, Lee RY, Leong AQ, Chui SX, Lai JJ, Lee JX, Foo MS, **Soh EJY** (2019). Bees of the Bukit Timah Nature Reserve and vicinity. Gardens Bulletin of Singapore, 71 (Supplement 1): 245-271. [DOI: 10.26492/gbs71(suppl.1).2019-09](https://doi.org/10.26492/gbs71(suppl.1).2019-09)
 
 **Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [DOI: 10.26107/NIS-2019-0007](https://doi.org/10.26107/NIS-2019-0007)
 
