@@ -56,13 +56,13 @@ Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA 
 
 **Local publications**
 
-Ascher JS, Soh ZWW, Chui SX, **Soh EJY**, Ho BM, Lee JXQ, Gajanur AR, Ong XR (2022). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology, 70: 39-64. [DOI: 10.26107/RBZ-2022-0004](https://doi.org/10.26107/RBZ-2022-0004)
+Ascher JS, Soh ZWW, Chui SX, **Soh EJY**, Ho BM, Lee JXQ, Gajanur AR, Ong XR (2022). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology, 70: 39–64. [DOI: 10.26107/RBZ-2022-0004](https://doi.org/10.26107/RBZ-2022-0004)
 
 Ascher JS, Risch S, Soh ZWW, Lee JXQ, **Soh EJY** (2016). *Megachile* leaf-cutter and resin bees of Singapore (Hymenoptera: Apoidea: Megachilidae). Raffles Bulletin of Zoology, Supplement 32, 33–55. [link](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/06/S32rbz033-055.pdf)
 
 **Peer-reviewed, non-indexed journals**
 
-Ascher JS, Soh ZW, Ho BM, Lee RY, Leong AQ, Chui SX, Lai JJ, Lee JX, Foo MS, **Soh EJY** (2019). Bees of the Bukit Timah Nature Reserve and vicinity. Gardens Bulletin of Singapore, 71 (Supplement 1): 245-271. [DOI: 10.26492/gbs71(suppl.1).2019-09](https://doi.org/10.26492/gbs71(suppl.1).2019-09)
+Ascher JS, Soh ZW, Ho BM, Lee RY, Leong AQ, Chui SX, Lai JJ, Lee JX, Foo MS, **Soh EJY** (2019). Bees of the Bukit Timah Nature Reserve and vicinity. Gardens Bulletin of Singapore, 71 (Supplement 1): 245–271. [DOI: 10.26492/gbs71(suppl.1).2019-09](https://doi.org/10.26492/gbs71(suppl.1).2019-09)
 
 **Soh EJY**, Soh ZWW, Ascher JS, Tan HTW (2019). Diversity of plants with leaves cut by bees of the genus *Megachile* in Singapore. Nature in Singapore, 12, 63–74. [DOI: 10.26107/NIS-2019-0007](https://doi.org/10.26107/NIS-2019-0007)
 
