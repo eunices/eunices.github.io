@@ -11,12 +11,12 @@ redirect_from:
 
 ## Work experience 🦟
 
-- Data repository librarian, NTU Library ● Aug 2021-Present
+- Data repository librarian (equivalent), NTU Library ● Aug 2021-Present
 - MSc student researcher, NUS ● Aug 2019-Aug 2021 
 - AI apprentice, AI Singapore ● May 2018-Jan 2019 
-- Data analyst, SCDF ● Jun 2017-May 2018
-- Data administrator, A*STAR SICS ● Jul 2016-Jun 2017
-- Researcher, NEA EHI ● Apr 2015-Jul 2016 
+- Data analyst (equivalent), SCDF ● Jun 2017-May 2018
+- Clinical data administrator, A*STAR SICS ● Jul 2016-Jun 2017
+- Researcher (equivalent), NEA EHI ● Apr 2015-Jul 2016 
 
 ## Education 💯
 
