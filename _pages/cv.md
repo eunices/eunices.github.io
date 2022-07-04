@@ -54,7 +54,7 @@ Developing full stack web application development for production using MongoDB, 
 
 Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513. [DOI: 10.1126/sciadv.1600513](https://doi.org/10.1126/sciadv.1600513)
 
-Wang WY, **Soh EJY**, Yong GWJ, Wong MKL, Guénard B, Economo EP & Yamane S (accepted). Remarkable diversity in a little red dot: a comprehensive checklist of known ant species in Singapore (Hymenoptera: Formicidae) with notes on ecology and taxonomy. Asian Myrmecology.
+Wang WY, **Soh EJY**, Yong GWJ, Wong MKL, Guénard B, Economo EP & Yamane S (2022). Remarkable diversity in a little red dot: a comprehensive checklist of known ant species in Singapore (Hymenoptera: Formicidae) with notes on ecology and taxonomy. Asian Myrmecology. [DOI: 10.20362/am.015006](https://doi.org/10.20362/am.015006)
 
 **Local publications**
 
