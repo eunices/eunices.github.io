@@ -50,13 +50,13 @@ Developing full stack web application development for production using MongoDB, 
 
 ## Academic publications 🐝
 
-**International publications**
+**International journals**
 
 Kwong WK, Medina LA, Koch H, Sing KW, **Soh EJY**, Ascher JS, Jaffe R, Moran NA (2017). Dynamic microbiome evolution in the social corbiculate bees. Science Advances, 3: e1600513. [DOI: 10.1126/sciadv.1600513](https://doi.org/10.1126/sciadv.1600513)
 
-Wang WY, **Soh EJY**, Yong GWJ, Wong MKL, Guénard B, Economo EP & Yamane S (2022). Remarkable diversity in a little red dot: a comprehensive checklist of known ant species in Singapore (Hymenoptera: Formicidae) with notes on ecology and taxonomy. Asian Myrmecology. [DOI: 10.20362/am.015006](https://doi.org/10.20362/am.015006)
+**Regional journals**
 
-**Local publications**
+Wang WY, **Soh EJY**, Yong GWJ, Wong MKL, Guénard B, Economo EP & Yamane S (2022). Remarkable diversity in a little red dot: a comprehensive checklist of known ant species in Singapore (Hymenoptera: Formicidae) with notes on ecology and taxonomy. Asian Myrmecology. [DOI: 10.20362/am.015006](https://doi.org/10.20362/am.015006)
 
 Ascher JS, Soh ZWW, Chui SX, **Soh EJY**, Ho BM, Lee JXQ, Gajanur AR, Ong XR (2022). The bees of Singapore (Hymenoptera: Apoidea: Anthophila): first comprehensive country checklist and conservation assessment for a Southeast Asian bee fauna. Raffles Bulletin of Zoology, 70: 39–64. [DOI: 10.26107/RBZ-2022-0004](https://doi.org/10.26107/RBZ-2022-0004)
 
