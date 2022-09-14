@@ -9,6 +9,7 @@ author_profile: true
 ## Learning
 
 ### Short classes
+- (2022) The Carpentries - "Instructor Training"
 - (2020) vISEC2020 - "Level-up your R package" short course
 - (2020) Republic Polytechnic - Agriculture Technology
 - (2019) SkillsFuture@PA - Unisex Hair Cutting Course Module 2
@@ -50,12 +51,6 @@ author_profile: true
 - [Flickr](https://www.flickr.com/photos/ejysoh/albums), for photos
 - [Vimeo](https://vimeo.com/ejysoh), for videos
 
-### Design
-- [carbonmade](http://eunice.carbonmade.com), for collateral, map design
-
-### Travels 
-<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="400px"></iframe>
-
 ### Coding
 - [Github](https://www.github.com/eunices), where my code is posted
 - [Codecademy](https://www.codecademy.com/profiles/ejysoh), where I pick up basics of programming languages
@@ -65,3 +60,6 @@ author_profile: true
 - [Datacamp2](https://www.datacamp.com/profile/ejysoh), same as preceding but a newer account
 - [Code katas](https://www.codewars.com/users/eunix), to practise coding
 - [Udemy](https://www.udemy.com/user/eunice-soh/), extra courses (TODO: link seems to be defunct, will check with Udemy)
+
+### Travels 
+<iframe src="https://www.google.com/maps/d/embed?mid=1MmLw-ZktRAwyLV7OwWh6U2StXrnVw1od&hl=en" width="100%" height="400px"></iframe>

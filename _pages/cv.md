@@ -11,7 +11,7 @@ redirect_from:
 
 ## Work experience 🦟
 
-- Data repository librarian (equivalent), NTU Library ● Aug 2021-Present
+- Data repository librarian (equivalent), NTU Library ● Aug 2021-Sep 2022
 - MSc student researcher, NUS ● Aug 2019-Aug 2021 
 - AI apprentice, AI Singapore ● May 2018-Jan 2019 
 - Data analyst (equivalent), SCDF ● Jun 2017-May 2018
