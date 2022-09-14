@@ -1,5 +1,5 @@
 ---
-title: "Research projects"
+title: "[ARCHIVED] Research projects"
 excerpt: "Documenting my research journey."
 collection: portfolio
 author_profile: false

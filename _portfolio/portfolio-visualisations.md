@@ -1,5 +1,5 @@
 ---
-title: "Visualisation projects"
+title: "[ARCHIVED] Visualisation projects"
 excerpt: "A picture is worth a thousand words."
 collection: portfolio
 author_profile: false

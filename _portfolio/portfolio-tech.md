@@ -1,5 +1,5 @@
 ---
-title: "Tech projects"
+title: "[ARCHIVED] Tech projects"
 excerpt: "A collection of tech projects."
 collection: portfolio
 author_profile: false
