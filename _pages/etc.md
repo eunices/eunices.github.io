@@ -25,6 +25,7 @@ author_profile: true
 - (2012) California Academy of Sciences - Ant Course at Mackere Research Station, Uganda
 
 ### Online courses
+- (Sep 2022) Coursera - Google IT Automation with Python [QYRY7VVWECWP](https://www.coursera.org/account/accomplishments/professional-cert/QYRY7VVWECWP)
 - (Aug 2019) Udacity - AWS Fundamental course in the AWS Machine Learning Scholarship
 - (Jan 2019) Udacity - Intro to Deep Learning with PyTorch
 - (Oct 2020) Coursera - Cloud Engineering with Google Cloud Specialization Certificate (5 courses) for Associate Cloud Engineer [FWAA3HXSEMUE](https://www.coursera.org/account/accomplishments/professional-cert/FWAA3HXSEMUE)
